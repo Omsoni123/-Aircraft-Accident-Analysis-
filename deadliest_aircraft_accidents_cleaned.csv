@@ -1,0 +1,562 @@
+Total,Crew,passenger,Ground,T,Incident[a],Phase,Year,Month,days_of_week,surivors,Country,City,accident ,Reason,Aircraft_name,Aircraft_model,flight_company
+1700,11,81,1600,INH,American Airlines Flight 11,ENR ,2001,9,Tuesday,no survivors,U.S.,New York City,Hijacked,terrorist attack,Boeing,767-223ER,American Airlines Flight
+1000,9,56,900,INH,United Airlines Flight 175,ENR ,2001,9,Tuesday,no survivors,U.S.,New York City,Hijacked,terrorist attack,Boeing,767-222,United Airlines Flight
+583,23,560,0,COM,Pan Am Flight 1736 and KLM Flight 4805,TXITOF ,1977,3,Sunday,no survivors,Spain,Tenerife,Collied,System failure,Boeing,747-121,Pan Am Flight
+520,15,505,0,COM,Japan Air Lines Flight 123,ENR ,1985,8,Monday,no survivors,Japan,Mount Takamagahara,Exploded,structure failure,Boeing,747SR-46,Japan Air Lines
+349,33,316,0,COM,Saudia Flight 763 and Kazakhstan Airlines Flight 1907,ENR ,1996,11,Tuesday,no survivors,India,Charkhi Dadri,Collied,System failure,Boeing,747-168B,Saudia Flight 763
+346,11,335,0,COM,Turkish Airlines Flight 981,ENR  ,1974,3,Sunday,no survivors,France,Fontaine-Chaalis,Crashed,System failure,McDonnell,Douglas,Turkish Airlines Flight
+329,22,307,0,INB,Air India Flight 182,ENR ,1985,6,Sunday,no survivors,Ireland,Atlantic Ocean,explosion,Bomb planted,Boeing,747-237B,Air India Flight
+301,14,287,0,COM,Saudia Flight 163,ENR ,1980,8,Tuesday,no survivors,Saudi Arabia,Riyadh,caught fire ,after takeoff,Lockheed,L-1011-200,Saudia Flight 163
+298,15,283,0,EXG,Malaysia Airlines Flight 17,ENR ,2014,7,Thursday,no survivors,Ukraine,near Hrabove,Shot down,missile attack,Boeing,777-2H6ER,Malaysia Airlines Flight
+290,16,274,0,EXG,Iran Air Flight 655,ENR ,1988,7,Sunday,no survivors,Iran,Strait of Hormuz,Crashed ,mountain collied,Airbus,A300B2-203,Iran Air Flight
+279,12,229,38,COM,Air India Flight 171,ICL ,2025,6,Thursday,survivors,India,Ahmedabad,Crashed,engine problem,Boeing,787-8,Air India Flight
+275,18,257,0,MIL,Iranian Revolutionary Guard Corps Aerospace Force (15-2280),ENR ,2003,2,Wednesday,no survivors,Iran,near Kerman,Crashed,Wing failure,Ilyushin,Il-76MD,Iranian Revolutionary Guard
+273,13,258,2,COM,American Airlines Flight 191,TOF  ,1979,5,Friday,no survivors,U.S.,Des Plaines,Bomded,terrorist attack,McDonnell,Douglas,American Airlines Flight
+270,16,243,11,INB,Pan Am Flight 103,ENR ,1988,12,Wednesday,no survivors,United Kingdom,Lockerbie,Shot down,aircraft,Boeing,747-121,Pan Am Flight
+269,23,246,0,EXS,Korean Air Lines Flight 007,ENR ,1983,9,Thursday,no survivors,USSR,Sea of Japan,Crashed,System failure,Boeing,747-230B,Korean Air Lines
+265,9,251,5,COM,American Airlines Flight 587,ENR ,2001,11,Monday,no survivors,U.S.,Belle Harbor,Crashed,unable to control,Airbus,A300B4-605R,American Airlines Flight
+264,15,249,0,COM,China Airlines Flight 140,APR ,1994,4,Tuesday,no survivors,Japan,Komaki,Crashed ,caught fire,Airbus,A300B4-622R,China Airlines Flight
+261,14,247,0,COM,Nigeria Airways Flight 2120,APR ,1991,7,Thursday,no survivors,Saudi Arabia,Jeddah,Collied,mountain collied,McDonnell,Douglas,Nigeria Airways Flight
+257,10,247,0,MIL,Algerian Air Force (7T-WIV),ICL ,2018,4,Wednesday,no survivors,Algeria,Boufarik,Crashed,Wing failure,Ilyushin,Il-76TD,Algerian Air Force
+257,20,237,0,COM,Air New Zealand Flight 901,ENR ,1979,11,Wednesday,no survivors,Antarctica,Mount Erebus,Crashed,overloaded flight,McDonnell,Douglas,Air New Zealand
+256,8,248,0,COM,Arrow Air Flight 1285R,ICL ,1985,12,Thursday,no survivors,Canada,Gander,diappeared,lost signal,McDonnell,Douglas,Arrow Air Flight
+251,2,0,249,COM,Air Africa (RA-26222),ICL ,1996,1,Monday,no survivors,DR Congo (then Zaire),Kinshasa,Crashed,mountain collied,Antonov,An-32B,Air Africa (RA-26222)
+239,12,227,0,COM,Malaysia Airlines Flight 370,ENR ,2014,3,Saturday,no survivors,Indian Ocean,Indian Ocean,Collied,Misscommunication,Boeing,777-2H6ER,Malaysia Airlines Flight
+234,14,220,0,COM,Garuda Indonesia Flight 152,APR ,1997,9,Friday,no survivors,Indonesia,near Medan,Crashed,mountain collied,Airbus,A300B4-220,Garuda Indonesia Flight
+230,18,212,0,COM,Trans World Airlines Flight 800,ENR ,1996,7,Wednesday,no survivors,U.S.,Atlantic Ocean,exploded,explosive device,Boeing,747-131,Trans World Airlines
+229,14,215,0,COM,Swissair Flight 111,ENR ,1998,9,Wednesday,no survivors,Canada,Atlantic Ocean,Crashed,unable to control,McDonnell,Douglas,Swissair Flight 111
+229,14,215,0,COM,Korean Air Flight 801,APR ,1997,8,Wednesday,no survivors,U.S.,Asan-Maina,Crashed,international act,Boeing,747-3B5,Korean Air Flight
+228,12,216,0,COM,Air France Flight 447,ENR ,2009,6,Monday,no survivors,area of Saint Peter and Saint Paul Archipelago,Atlantic Ocean,Crashed,Into sea,Airbus,A330-203,Air France Flight
+225,19,206,0,COM,China Airlines Flight 611,ENR ,2002,5,Saturday,no survivors,Taiwan,Taiwan Strait,Crashed,while takeoff,Boeing,747-209B,China Airlines Flight
+224,7,217,0,INB,Metrojet Flight 9268,ENR ,2015,10,Saturday,no survivors,Egypt,near Hasna,Crashed,higy alltitude,Airbus,A321-231,Metrojet Flight 9268
+223,10,213,0,COM,Lauda Air Flight 004,ENR ,1991,5,Sunday,no survivors,Thailand,Phu Toei National Park,exploded ,While landing,Boeing,767-3Z9ER,Lauda Air Flight
+217,15,202,0,COM,EgyptAir Flight 990,ENR ,1999,10,Sunday,no survivors,U.S.,Atlantic Ocean,Crashed ,mountain collied,Boeing,767-366ER,EgyptAir Flight 990
+213,23,190,0,COM,Air India Flight 855,ENR ,1978,1,Sunday,no survivors,India,Arabian Sea,accident ,terrorist attack,Boeing,747-237B,Air India Flight
+202,14,182,6,COM,China Airlines Flight 676,APR ,1998,2,Monday,no survivors,Taiwan,Dayuan District,Hijacked,terrorist attack,Airbus,A300B4-622R,China Airlines Flight
+200,9,191,0,COM,Aeroflot Flight 5143,ENR ,1985,7,Wednesday,no survivors,USSR,near Uchkuduk,Hijacked,System failure,Tupolev,Tu-154B-2,Aeroflot Flight 5143
+199,6,181,12,COM,TAM Linhas Aéreas Flight 3054,LDG ,2007,7,Tuesday,no survivors,Brazil,São Paulo,Collied,structure failure,Airbus,A320-233,TAM Linhas Aéreas
+191,9,182,0,COM,Martinair Flight 138,ENR ,1974,12,Wednesday,no survivors,Sri Lanka,near Maskeliya,Exploded,System failure,Douglas,DC-8-55CF,Martinair Flight 138
+189,8,181,0,COM,Lion Air Flight 610,ENR ,2018,10,Monday,no survivors,Indonesia,Java Sea,Collied,System failure,Boeing,737,Lion Air Flight
+189,6,58,125,INH,American Airlines Flight 77,ENR ,2001,9,Tuesday,no survivors,U.S.,Arlington,Crashed,Bomb planted,Boeing,757-223,American Airlines Flight
+189,13,176,0,COM,Birgenair Flight 301,ENR ,1996,2,Tuesday,no survivors,Dominican Republic,Atlantic Ocean,explosion,after takeoff,Boeing,757-225,Birgenair Flight 301
+188,7,181,0,COM,Royal Air Maroc (JY-AEE),ENR ,1975,8,Sunday,no survivors,Morocco,Tamri,caught fire ,missile attack,Boeing,707-321C,Royal Air Maroc
+183,11,172,0,COM,LOT Polish Airlines Flight 5055,ENR f,1987,5,Saturday,no survivors,Poland,Warsaw,Shot down,mountain collied,Ilyushin,Il-62M,LOT Polish Airlines
+183,8,175,0,COM,Loftleiðir Flight 001,APR ,1978,11,Wednesday,no survivors,Sri Lanka,Katunayake,Crashed ,engine problem,Douglas,DC-8-63CF,Loftleiðir Flight 001
+181,19,162,0,COM,Avianca Flight 011,APR ,1983,11,Sunday,no survivors,Spain,Madrid,Crashed,Wing failure,Boeing,747-283B,Avianca Flight 011
+180,7,173,0,COM,Inex-Adria Aviopromet Flight 1308,ENR ,1981,12,Tuesday,no survivors,France,Mount San Pietro,Crashed,terrorist attack,McDonnell,Douglas,Inex-Adria Aviopromet Flight
+179,4,175,0,COM,Jeju Air Flight 2216,LDG ,2024,12,Sunday,no survivors,South Korea,Muan,Bomded,aircraft,Boeing,737-800,Jeju Air Flight
+178,5,169,4,COM,Aeroflot Flight 3352,LDG ,1984,10,Thursday,no survivors,USSR,Omsk,Shot down,System failure,Tupolev,Tu-154,Aeroflot Flight 3352
+178,13,165,0,COM,Aeroflot Flight 7628  and Aeroflot Flight 7880,ENR ,1979,8,Saturday,no survivors,USSR,near Dniprodzerzhynsk,Crashed,unable to control,Tupolev,Tu-134A,Aeroflot Flight 7628
+176,9,167,0,EXG,Ukraine International Airlines Flight 752,ENR ,2020,1,Wednesday,no survivors,Iran,Tehran,Crashed,caught fire,Boeing,737-800,Ukraine International Airlines
+176,9,167,0,COM,Surinam Airways Flight 764,APR ,1989,6,Wednesday,no survivors,Surinam,Paramaribo,Crashed ,mountain collied,Douglas,DC-8-62,Surinam Airways Flight
+176,14,162,0,COM,British Airways Flight 476 and Inex-Adria Aviopromet Flight 550,ENR  ,1976,9,Friday,no survivors,Yugoslavia,Vrbovec,Collied,Wing failure,Hawker,Siddeley,British Airways Flight
+176,6,170,0,COM,Nigeria Airways (JY-ADO),LDG ,1973,1,Monday,no survivors,Nigeria,Kano,Crashed,overloaded flight,Boeing,707-3D3C,Nigeria Airways (JY-ADO)
+174,10,164,0,COM,Aeroflot Flight 217,APR ,1972,10,Friday,no survivors,USSR,Moscow,Crashed,lost signal,Ilyushin,Il-62,Aeroflot Flight 217
+170,10,160,0,COM,Pulkovo Aviation Enterprise Flight 612,ENR ,2006,8,Tuesday,no survivors,Ukraine,Sukha Balka,diappeared,mountain collied,Tupolev,Tu-154M,Pulkovo Aviation Enterprise
+170,14,156,0,INB,Union de Transports Aériens Flight 772,ENR ,1989,9,Tuesday,no survivors,Niger,Ténéré,Crashed,Misscommunication,McDonnell,Douglas,Union de Transports
+169,10,159,0,COM,Kenya Airways Flight 431,ENR ,2000,1,Sunday,no survivors,Gulf of Guinea off Côte d'Ivoire,Gulf of Guinea off Côte d'Ivoire,Collied,mountain collied,Airbus,A310-304,Kenya Airways Flight
+168,12,156,0,COM,Caspian Airlines Flight 7908,ENR ,2009,7,Wednesday,no survivors,Iran,Qazvin,Crashed,explosive device,Tupolev,Tu-154M,Caspian Airlines Flight
+167,12,155,0,COM,Pakistan International Airlines Flight 268,APR ,1992,9,Monday,no survivors,Nepal,Kathmandu,exploded,unable to control,Airbus,A300B4-200,Pakistan International Airlines
+167,8,159,0,COM,Mexicana de Aviación Flight 940,ENR ,1986,3,Monday,no survivors,Mexico,Sierra Madre Occidental,Crashed,international act,Boeing,727-264,Mexicana de Aviación
+166,10,156,0,COM,Aeroflot Flight 4225,ENR ,1980,7,Tuesday,no survivors,USSR,Almaty,Crashed,Into sea,Tupolev,Tu-154B-2,Aeroflot Flight 4225
+162,7,155,0,COM,Indonesia AirAsia Flight 8501,ENR ,2014,12,Sunday,no survivors,Indonesia,Karimata Strait,Crashed,while takeoff,Airbus,A320-216,Indonesia AirAsia Flight
+162,7,155,0,COM,All Nippon Airways Flight 58 and JASDF (92-7932),ENR ,1971,7,Friday,no survivors,Japan,Shizukuishi,Crashed,higy alltitude,Boeing,727-200,All Nippon Airways
+160,8,152,0,COM,West Caribbean Airways Flight 708,ENR ,2005,8,Tuesday,no survivors,Venezuela,Machiques,Crashed,While landing,McDonnell,Douglas,West Caribbean Airways
+160,14,146,0,COM,China Northwest Airlines Flight 2303,ENR ,1994,6,Monday,no survivors,China,Xi'an,exploded ,mountain collied,Tupolev,Tu-154M,China Northwest Airlines
+159,6,147,6,COM,Dana Air Flight 0992,APR ,2012,6,Sunday,no survivors,Nigeria,Lagos,Crashed ,terrorist attack,McDonnell,Douglas,Dana Air Flight
+159,8,151,0,COM,American Airlines Flight 965,APR ,1995,12,Wednesday,no survivors,Colombia,near Buga,accident ,terrorist attack,Boeing,757-223,American Airlines Flight
+159,9,150,0,COM,Libyan Arab Airlines Flight 1103 and Libyan Air Force,APR ,1992,12,Tuesday,no survivors,Libya,Qasr bin Ghashir,Hijacked,System failure,Boeing,727-2L5,Libyan Arab Airlines
+159,8,151,0,MIL,Nigerian Air Force (NAF911),ENR ,1992,9,Saturday,no survivors,Nigeria,Lagos,Hijacked,structure failure,Lockheed,C-130H,Nigerian Air Force
+159,19,140,0,COM,South African Airways Flight 295,ENR ,1987,11,Saturday,no survivors,area of Mauritius,Indian Ocean,Collied,System failure,Boeing,747-244B,South African Airways
+158,6,160,0,COM,Air India Express Flight 812,LDG ,2010,5,Saturday,no survivors,India,Mangalore,Exploded,System failure,Boeing,737-8HG,Air India Express
+157,8,149,0,COM,Ethiopian Airlines Flight 302,ENR ,2019,3,Sunday,no survivors,Ethiopia,Bishoftu,Collied,Bomb planted,Boeing,737,Ethiopian Airlines Flight
+156,6,148,2,COM,Northwest Airlines Flight 255,TOF ,1987,8,Sunday,survivors,U.S.,Romulus,Crashed,after takeoff,McDonnell,Douglas,Northwest Airlines Flight
+156,11,145,0,COM,Pakistan International Airlines Flight 740,ENR ,1979,11,Monday,no survivors,Saudi Arabia,near Taif,explosion,missile attack,Boeing,707-340C,Pakistan International Airlines
+156,11,145,0,COM,Interflug Flight 450,ENR ,1972,8,Monday,no survivors,East Germany,Königs Wusterhausen,caught fire ,mountain collied,Ilyushin,Il-62,Interflug Flight 450
+155,7,148,0,COM,Spantax (EC-BZR),ICL ,1972,12,Sunday,no survivors,Spain,San Cristóbal,Shot down,engine problem,Convair,990,Spantax (EC-BZR)
+155,10,74,71,COM,Viasa Flight 742,ICL ,1969,3,Sunday,no survivors,Venezuela,Maracaibo,Crashed ,Wing failure,McDonnell,Douglas,Viasa Flight 742
+155,5,150,0,EXG,US Air Force (60-0297),ICL ,1968,5,Sunday,no survivors,South Vietnam,Kham Duc,Crashed,terrorist attack,Lockheed,C-130B,US Air Force
+154,6,148,0,COM,Spanair Flight 5022,TOF ,2008,8,Wednesday,no survivors,Spain,Madrid,Crashed,aircraft,McDonnell,Douglas,Spanair Flight 5022
+154,6,148,0,COM,Gol Transportes Aéreos Flight 1907 and  ExcelAire (N600XL),ENR ,2006,9,Friday,no survivors,Brazil,near Peixoto Azevedo,Bomded,System failure,Boeing,737-8EH,Gol Transportes Aéreos
+154,8,146,0,COM,Turkish Airlines Flight 452,APR ,1976,9,Sunday,no survivors,Turkey,Isparta,Shot down,unable to control,Boeing,727-2F2,Turkish Airlines Flight
+153,7,138,8,COM,Pan Am Flight 759,ICL ,1982,7,Friday,no survivors,U.S.,Kenner,Crashed,caught fire,Boeing,727-235,Pan Am Flight
+152,6,146,0,COM,Airblue Flight 202,APR ,2010,7,Wednesday,no survivors,Pakistan,Islamabad,Crashed,mountain collied,Airbus,A321-231,Airblue Flight 202
+152,11,141,0,COM,Yemenia Flight 626,APR ,2009,6,Tuesday,survivors,Comoros,Mozambique Channel off Mitsamiouli,Crashed ,Wing failure,Airbus,A310-324,Yemenia Flight 626
+150,6,144,0,COM,Germanwings Flight 9525,ENR ,2015,3,Tuesday,no survivors,France,near the French Alps,Collied,overloaded flight,Airbus,A320-211,Germanwings Flight 9525
+150,11,115,24,COM,Cubana de Aviación Flight 9046,ICL ,1989,9,Sunday,no survivors,Cuba,Havana,Crashed,lost signal,Ilyushin,II-62M,Cubana de Aviación
+149,5,95,49,COM,Mandala Airlines Flight 091,ICL ,2005,9,Monday,no survivors,Indonesia,Medan,Crashed,mountain collied,Boeing,737-230,Mandala Airlines Flight
+148,13,135,0,COM,Flash Airlines Flight 604,ENR ,2004,1,Saturday,no survivors,Egypt,Red Sea,diappeared,Misscommunication,Boeing,737-3Q8,Flash Airlines Flight
+148,7,141,0,COM,Iberia Airlines Flight 610,ENR ,1985,2,Tuesday,no survivors,Spain,Oiz mountain,Crashed,mountain collied,Boeing,727-256,Iberia Airlines Flight
+146,8,138,0,COM,Dan-Air Flight 1008,APR ,1980,4,Friday,no survivors,Spain,La Esperanza Forest,Collied,explosive device,Boeing,727-46,Dan-Air Flight 1008
+145,9,136,0,COM,Vladivostok Air Flight 352,APR ,2001,7,Wednesday,no survivors,Russia,near Budaro,Crashed,unable to control,Tupolev,Tu-154M,Vladivostok Air Flight
+144,10,134,0,COM,ADC Airlines Flight 086,APR ,1996,11,Thursday,no survivors,Nigeria,Ejirin,exploded,international act,Boeing,727-231,ADC Airlines Flight
+144,7,137,0,COM,Independent Air Flight 1851,APR ,1989,2,Wednesday,no survivors,Portugal,Pico Alto,Crashed,Into sea,Boeing,707-331B,Independent Air Flight
+144,9,128,7,COM,Pacific Southwest Airlines Flight 182 and Private aircraft (N7711G),APR ,1978,9,Monday,no survivors,U.S.,San Diego,Crashed,while takeoff,Boeing,727-214,Pacific Southwest Airlines
+143,8,135,0,COM,Gulf Air Flight 072,APR ,2000,8,Wednesday,no survivors,Bahrain,Persian Gulf,Crashed,higy alltitude,Airbus,A320-212,Gulf Air Flight
+143,7,136,0,COM,Avianca Flight 410,ENR ,1988,3,Thursday,no survivors,Colombia,Sardinata,Crashed,While landing,Boeing,727-21,Avianca Flight 410
+141,5,136,0,COM,UTA Flight 141,TOF ,2003,12,Thursday,no survivors,Benin,Cotonou,Crashed,mountain collied,Boeing,727-223,UTA Flight 141
+141,11,130,0,COM,Vnukovo Airlines Flight 2801,APR ,1996,8,Thursday,no survivors,Norway,Svalbard,exploded ,terrorist attack,Tupolev,Tu-154M,Vnukovo Airlines Flight
+141,4,137,0,COM,Trans Service Airlift (9Q-CRR),TOF ,1995,12,Monday,no survivors,Angola,Jamba,Crashed,Wing failure,Lockheed,L-188,Trans Service Airlift
+141,10,131,0,COM,China Southern Airlines Flight 3943,APR ,1992,11,Tuesday,no survivors,China,Hejiaqiao,Crashed,overloaded flight,Boeing,737-31B,China Southern Airlines
+140,7.413793103,0,0,MIL,Malian Air Force (TZ-98T),LDG ,2023,9,Saturday,no survivors,Mali,Gao International Airport,diappeared,lost signal,Ilyushin,Il-76TD,Malian Air Force
+139,12,110,17,MIL,Indonesian Air Force (A-1310),ICL ,2015,6,Tuesday,no survivors,Indonesia,Medan,Crashed,mountain collied,Lockheed,C-130,Indonesian Air Force
+138,11,127,0,MIL,US Air Force (68-0218),ENR ,1975,4,Friday,no survivors,South Vietnam,Saigon,Collied,Misscommunication,Lockheed,C-5A,US Air Force
+137,8,128,1,COM,Delta Air Lines Flight 191,APR ,1985,8,Friday,no survivors,U.S.,Dallas–Fort Worth,Crashed,mountain collied,Lockheed,L-1011,Delta Air Lines
+137,9,128,0,COM,Viação Aérea São Paulo Flight 168,APR ,1982,6,Tuesday,no survivors,Brazil,Pacatuba,exploded,explosive device,Boeing,727-212A,Viação Aérea São
+135,12,121,2,MIL,Indonesian Air Force (A-1324),ICL ,1991,10,Saturday,survivors,Indonesia,East Jakarta,Crashed,unable to control,Lockheed,C-130H-30,Indonesian Air Force
+134,12,116,6,COM,United Air Lines Flight 826 and Trans World Airlines Flight 266,APR  ,1960,12,Friday,no survivors,U.S.,New York City,Crashed,international act,Douglas,DC-8-21,United Air Lines
+133,14,119,0,MIL,Iran Air Tours Flight 962 and Iranian Air Force Su-24,APRTOF ,1993,2,Monday,no survivors,Iran,Shahr-e Qods,Crashed,Into sea,Tupolev,Tu-154,Iran Air Tours
+133,6,127,0,COM,Indian Airlines Flight 113,APR ,1988,10,Wednesday,no survivors,India,Ahmedabad,Crashed,while takeoff,Boeing,737-2A8,Indian Airlines Flight
+133,7,126,0,COM,All Nippon Airways Flight 60,APR ,1966,2,Friday,no survivors,Japan,Tokyo Bay,Crashed,higy alltitude,Boeing,727-81,All Nippon Airways
+132,9,123,0,COM,China Eastern Airlines Flight 5735,ENR ,2022,3,Monday,no survivors,China,Shentangbiao,exploded ,While landing,Boeing,737-89P,China Eastern Airlines
+132,5,127,0,COM,USAir Flight 427,APR ,1994,9,Thursday,no survivors,U.S.,Aliquippa,Crashed,mountain collied,Boeing,737-3B7,USAir Flight 427
+132,7,125,0,COM,SAM Colombia Flight 501,ENR ,1993,5,Wednesday,no survivors,Colombia,La Canada,Crashed,terrorist attack,Boeing,727-146,SAM Colombia Flight
+132,8,124,0,COM,Aeroflot Flight 8641,ENR ,1982,6,Monday,no survivors,USSR,Mazyr,diappeared,Wing failure,Yakovlev,Yak-42,Aeroflot Flight 8641
+131,7,124,0,COM,Air Philippines Flight 541,APR ,2000,4,Wednesday,no survivors,Philippines,Samal,Crashed,overloaded flight,Boeing,737-2H4,Air Philippines Flight
+131,4,127,0,COM,TAN-SAHSA Flight 414,APR ,1989,10,Saturday,no survivors,Honduras,Tegucigalpa,Collied,lost signal,Boeing,727-224,TAN-SAHSA Flight 414
+131,6,125,0,COM,Transportes Aéreos Portugueses Flight 425,LDG ,1977,11,Saturday,no survivors,Portugal,Santa Cruz,Crashed,mountain collied,Boeing,727-282Adv,Transportes Aéreos Portugueses
+130,4,126,0,COM[s],TAAG Flight 462,ICL,1983,11,Tuesday,no survivors,Angola,Lubango,exploded,Misscommunication,Boeing,737-200,TAAG Flight 462
+130,8,122,0,COM,Air France Flight 007,TOF ,1962,6,Sunday,no survivors,France,Paris,Crashed,mountain collied,Boeing,707-328,Air France Flight
+129,8,121,0,COM,Air China Flight 129,APR ,2002,4,Monday,no survivors,South Korea,Busan,Crashed,explosive device,Boeing,767-2J6ER,Air China Flight
+129,7,122,0,MIL,US Air Force (51-0137),APR ,1953,6,Thursday,no survivors,Japan,Tachikawa,Crashed,unable to control,Douglas,C-124A-DL,US Air Force
+128,7,121,0,INH,"Xiamen Airlines Flight 8301, China Southwest Airlines Flight 4305, and CAAC Flight 3523",LDGSTD t,1990,10,Tuesday,no survivors,China,Baiyun District,Crashed,international act,Boeing,"737-247,",Xiamen Airlines Flight
+128,8,120,0,COM,Iran Air Flight 291,APR ,1980,1,Monday,no survivors,Iran,Alborz Mountains,Crashed,Into sea,Boeing,727-86,Iran Air Flight
+128,11,117,0,COM,United Air Lines Flight 718 and Trans World Airlines Flight 2,ENR  ,1956,6,Saturday,no survivors,U.S.,Grand Canyon,exploded ,while takeoff,Douglas,DC-7,United Air Lines
+127,6,121,0,COM,Bhoja Air Flight 213,APR ,2012,4,Friday,no survivors,Pakistan,Islamabad,Crashed,higy alltitude,Boeing,737-236,Bhoja Air Flight
+127,0,127,0,MIL,Russian Air Force (89 red),APR ,2002,8,Monday,no survivors,Russia,Khankala,Crashed,While landing,Mil,Mi-26,Russian Air Force
+126,11,115,0,COM,Československé Státní Aerolinie Flight 540,APR ,1975,8,Wednesday,no survivors,Syria,Damascus,diappeared,mountain collied,Ilyushin,Il-62,Československé Státní Aerolinie
+126,9,117,0,COM,Globe Air (HB-ITB),APR ,1967,4,Thursday,no survivors,Cyprus,Nicosia,Crashed,terrorist attack,Bristol,Britannia,Globe Air (HB-ITB)
+125,5,120,0,COM,S7 Airlines Flight 778,LDG ,2006,7,Sunday,no survivors,Russia,Irkutsk,Collied,Wing failure,Airbus,A310-300,S7 Airlines Flight
+125,6,119,0,INH,Ethiopian Airlines Flight 961,APR ,1996,11,Saturday,no survivors,Comoros,Indian Ocean,Crashed,overloaded flight,Boeing,767-260ER,Ethiopian Airlines Flight
+125,9,115,1,COM,Baikal Airlines Flight 130,ENR ,1994,1,Monday,no survivors,Russia,Irkutsk,exploded,lost signal,Tupolev,Tu-154,Baikal Airlines Flight
+124,11,113,0,COM,British Overseas Airways Corporation Flight 911,ENR ,1966,3,Saturday,no survivors,Japan,Gotemba,Crashed,mountain collied,Boeing,707-436,British Overseas Airways
+123,6,117,0,COM,Faucett Perú Flight 251,APR ,1996,2,Thursday,no survivors,Peru,Arequipa,Crashed,Misscommunication,Boeing,737-222,Faucett Perú Flight
+123,7,116,0,COM,Varig Flight 820,APR ,1973,7,Wednesday,no survivors,France,Saulx-les-Chartreux,Crashed,mountain collied,Boeing,707-320C,Varig Flight 820
+123,12,111,0,COM,South African Airways Flight 228,ICL ,1968,4,Saturday,no survivors,Namibia (then South West Africa),Windhoek,Crashed,explosive device,Boeing,707-344C,South African Airways
+122,14,108,0,MIL,Myanmar Air Force (5820),ENR ,2017,6,Wednesday,no survivors,Myanmar,Andaman Sea,Crashed,unable to control,Shaanxi,Y-8F-200,Myanmar Air Force
+122,8,114,0,COM,Aeroflot Flight 964,APR ,1973,10,Saturday,no survivors,USSR,Domodedovo,Hijacked,international act,Tupolev,Tu-104B,Aeroflot Flight 964
+122,7,115,0,COM,Aeroflot Flight 1491,APR ,1972,5,Thursday,no survivors,USSR,near Kharkiv,Hijacked,Into sea,Antonov,An-10,Aeroflot Flight 1491
+121,6,115,0,COM,Helios Airways Flight 522,ENR ,2005,8,Sunday,no survivors,Greece,Grammatiko,Collied,while takeoff,Boeing,737-31S,Helios Airways Flight
+121,13,108,0,COM,Pakistan International Airlines Flight 705,APR ,1965,5,Thursday,no survivors,Egypt,New Cairo,Exploded,higy alltitude,Boeing,720,Pakistan International Airlines
+120,10,110,0,COM,Aeroflot Flight 831 and Soviet Air Force An-12,ENR ,1969,6,Monday,no survivors,USSR,Poroslitsy,Collied,While landing,Ilyushin,Il-14M,Aeroflot Flight 831
+119,12,107,0,COM,Iran Air Tours Flight 956,APR ,2002,2,Tuesday,no survivors,Iran,near Sarab-e Dowreh,Crashed,mountain collied,Tupolev,Tu-154M,Iran Air Tours
+119,8,111,0,COM,TAME Flight 173,APR ,1983,7,Monday,no survivors,Ecuador,Cuenca,explosion,terrorist attack,Boeing,737-200,TAME Flight 173
+118,8,106,4,COM,Scandinavian Airlines System Flight 686 and Private aircraft (D-IEVX),TOFTXI  ,2001,10,Monday,no survivors,Italy,Milan,caught fire ,Wing failure,McDonnell,Douglas,Scandinavian Airlines System
+118,9,109,0,COM,British European Airways Flight 548,ICL ,1972,6,Sunday,no survivors,United Kingdom,Staines,Shot down,overloaded flight,Hawker,Siddeley,British European Airways
+118,7,111,0,COM,Trans-Canada Air Lines Flight 831,ENR ,1963,11,Friday,no survivors,Canada,Sainte-Thérèse,Crashed ,lost signal,Douglas,DC-8-54CF,Trans-Canada Air Lines
+117,6,111,0,COM,Bellview Airlines Flight 210,ENR ,2005,10,Saturday,no survivors,Nigeria,near Lagos,Crashed,mountain collied,Boeing,737-2L9,Bellview Airlines Flight
+116,11,105,0,COM,Sudan Airways Flight 139,APR ,2003,7,Tuesday,survivors,Sudan,Port Sudan,Crashed,Misscommunication,Boeing,737-200C,Sudan Airways Flight
+117,11,106,0,COM,Air India Flight 101,ENR ,1966,1,Monday,no survivors,France,Mont Blanc massif,Bomded,mountain collied,Boeing,707-437,Air India Flight
+116,6,110,0,COM,Air Algérie Flight 5017,ENR ,2014,7,Thursday,no survivors,Mali,near Gossi,Shot down,explosive device,McDonnell,Douglas,Air Algérie Flight
+116,8,108,0,COM,Avioimpex Flight 110,APR ,1993,11,Saturday,no survivors,Republic of Macedonia,Ohrid,Crashed,unable to control,Yakovlev,Yak-42,Avioimpex Flight 110
+115,11,104,0,INB,Korean Air Flight 858,ENR ,1987,11,Sunday,no survivors,Burma,Andaman Sea,Crashed,international act,Boeing,707-3B5C,Korean Air Flight
+115,7,108,0,COM,Alitalia Flight 112,APR ,1972,5,Friday,no survivors,Italy,Cinisi,Crashed ,Into sea,McDonnell,Douglas,Alitalia Flight 112
+114,6,108,0,COM,Kenya Airways Flight 507,ENR ,2007,5,Saturday,no survivors,Cameroon,Douala,Collied,while takeoff,Boeing,737-8AL,Kenya Airways Flight
+113,8,105,0,COM,Armavia Flight 967,APR ,2006,5,Wednesday,no survivors,Russia,Black Sea,Crashed,higy alltitude,Airbus,A320-221,Armavia Flight 967
+113,9,100,4,COM,Air France Flight 4590,ICL ,2000,7,Tuesday,no survivors,France,Gonesse,Crashed,While landing,Aérospatiale-BAC,Concorde,Air France Flight
+113,14,99,0,COM,Thai Airways International Flight 311,ENR ,1992,7,Friday,no survivors,Nepal,Langtang National Park,diappeared,mountain collied,Airbus,A310-304,Thai Airways International
+113,6,107,0,COM,Eastern Air Lines Flight 66,APR ,1975,6,Tuesday,no survivors,U.S.,Jamaica,Crashed,terrorist attack,Boeing,727-225,Eastern Air Lines
+113,10,103,0,COM,Air France Flight 117,APR ,1962,6,Friday,no survivors,West Indies,near Deshaies,Collied,Wing failure,Boeing,707-328,Air France Flight
+112,6,106,0,COM,Cubana de Aviación Flight 0972,ICL ,2018,5,Friday,survivors,Cuba,Santiago de las Vegas,Crashed,overloaded flight,Boeing,737-201,Cubana de Aviación
+112,9,103,0,COM,China Northern Airlines Flight 6136,APR ,2002,5,Tuesday,no survivors,China,Dalian Bay,exploded,lost signal,McDonnell,Douglas,China Northern Airlines
+112,1,111,0,COM,United Airlines Flight 232,LDG  ,1989,7,Wednesday,no survivors,U.S.,Sioux City,Crashed,mountain collied,McDonnell,Douglas,United Airlines Flight
+112,5,107,0,INB,Gulf Air Flight 771,APR ,1983,9,Friday,no survivors,United Arab Emirates,Mina Jebel Ali,Crashed,Misscommunication,Boeing,737-2P6,Gulf Air Flight
+112,8,104,0,COM,CAAC Flight 3303,APR ,1982,4,Monday,no survivors,China,near Yangshuo,Crashed,mountain collied,Hawker,Siddeley,CAAC Flight 3303
+112,6,106,0,COM,Sterling Airways Flight 296,ENR ,1972,3,Tuesday,no survivors,United Arab Emirates,Fujairah,Crashed,explosive device,Sud,Aviation,Sterling Airways Flight
+112,7,105,0,COM,Dan-Air Flight 1903,ENR ,1970,7,Friday,no survivors,Spain,Les Agudes mountain,Crashed,unable to control,de,Havilland,Dan-Air Flight 1903
+111,11,100,0,COM,Aeroflot Flight 909,ENR ,1976,3,Saturday,no survivors,USSR,Verkhnyaya Khava,exploded ,international act,Ilyushin,Il-18E,Aeroflot Flight 909
+111,7,104,0,COM,Alaska Airlines Flight 1866,APR ,1971,9,Saturday,no survivors,U.S.,near Juneau,Crashed ,Into sea,Boeing,727-100,Alaska Airlines Flight
+111,4,0,107,COM,Flying Tiger Line (N228SW),APR ,1966,12,Saturday,no survivors,Vietnam,Da Nang,accident ,while takeoff,Canadair,CL-44D4-1,Flying Tiger Line
+111,10,101,0,COM,Caledonian Airways Flight 153,ICL ,1962,3,Sunday,no survivors,Cameroon,Douala,Hijacked,higy alltitude,Douglas,DC-7,Caledonian Airways Flight
+110,5,105,0,COM,ValuJet Airlines Flight 592,ENR ,1996,5,Saturday,no survivors,U.S.,Everglades,Hijacked,While landing,McDonnell,Douglas,ValuJet Airlines Flight
+110,6,101,3,INB,Avianca Flight 203,ENR ,1989,11,Monday,no survivors,Colombia,Bogotá,Collied,mountain collied,Boeing,727-21,Avianca Flight 203
+110,7,103,0,COM,Aeroflot Flight 3519,ENR ,1984,12,Sunday,survivors,USSR,Yemelyanovo,Exploded,terrorist attack,Tupolev,154B-2,Aeroflot Flight 3519
+110,6,104,0,COM,Far Eastern Air Transport Flight 103,ENR ,1981,8,Saturday,no survivors,Taiwan,Miaoli,Collied,Wing failure,Boeing,737-222,Far Eastern Air
+109,7,102,0,COM,Aeroflot (CCCP-75559),APR ,1974,4,Saturday,no survivors,USSR,Shushary,Crashed,overloaded flight,Ilyushin,Il-18V,Aeroflot (CCCP-75559)
+109,8,101,0,COM,Aeroflot Flight 1036,ICL ,1972,10,Sunday,no survivors,USSR,Black Sea,explosion,lost signal,Ilyushin,Il-18V,Aeroflot Flight 1036
+109,9,100,0,COM,Air Canada Flight 621,LDG ,1970,7,Sunday,no survivors,Canada,Vaughan,caught fire ,mountain collied,McDonnell,Douglas,Air Canada Flight
+108,7,101,0,COM,Sosoliso Airlines Flight 1145,LDG ,2005,12,Saturday,no survivors,Nigeria,Port Harcourt,Shot down,Misscommunication,McDonnell,Douglas,Sosoliso Airlines Flight
+108,8,100,0,EXG,Orbi Georgian Airways (4L-85163),APR ,1993,9,Wednesday,no survivors,Georgia,Babushara,Crashed ,mountain collied,Tupolev,Tu-154B,Orbi Georgian Airways
+108,8,100,0,COM,China General Aviation Flight 7552,ICL ,1992,7,Friday,no survivors,China,Nanjing,Crashed,explosive device,Yakovlev,Yak-42,China General Aviation
+108,10,98,0,COM,China Southwest Airlines Flight 4146,APR ,1988,1,Monday,no survivors,China,near Chongqing,Crashed,unable to control,Ilyushin,Il-18D,China Southwest Airlines
+108,5,103,0,COM,Alitalia Flight 4128,APR ,1978,12,Saturday,no survivors,Italy,Tyrrhenian Sea,Bomded,international act,McDonnell,Douglas,Alitalia Flight 4128
+108,8,100,0,COM,Aeroflot Flight 3932,ICL ,1973,9,Sunday,no survivors,USSR,Sverdlovsk,Shot down,Into sea,Tupolev,Tu-104,Aeroflot Flight 3932
+108,4,104,0,COM,Invicta International Airlines Flight 435,APR ,1973,4,Tuesday,no survivors,Switzerland,Hochwald,Crashed,while takeoff,Vickers,952,Invicta International Airlines
+108,8,100,0,EXS,Libyan Arab Airlines Flight 114,ENR ,1973,2,Wednesday,no survivors,Egypt,Western Sinai Peninsula,Crashed,higy alltitude,Boeing,727-224,Libyan Arab Airlines
+107,11,96,0,COM,Pan Am Flight 812,APR ,1974,4,Monday,no survivors,Indonesia,area of Negara,Crashed ,While landing,Boeing,707-321B,Pan Am Flight
+107,8,99,0,COM,Aeroflot Flight 2230,ICL ,1967,11,Thursday,no survivors,USSR,Aramil,Collied,mountain collied,Ilyushin,Il-18V,Aeroflot Flight 2230
+107,11,96,0,COM,Flying Tiger Line Flight 739,ENR ,1962,3,Friday,no survivors,Pacific Ocean,Pacific Ocean,Crashed,terrorist attack,Lockheed,L-1049H,Flying Tiger Line
+106,10,84,12,MIL,Iranian Air Force (5-8519),APR ,2005,12,Tuesday,no survivors,Iran,Tehran,Crashed,Wing failure,Lockheed,C-130E,Iranian Air Force
+106,7,99,0,COM,Royal Air Maroc (OO-SRD),ENR ,1973,12,Saturday,no survivors,Morocco,Mount Mellalyene,diappeared,overloaded flight,Sud,Aviation,Royal Air Maroc
+105,8,97,0,COM,Kam Air Flight 904,ENR ,2005,2,Thursday,no survivors,Afghanistan,Chaperi Ghar Mountain,Crashed,lost signal,Boeing,737-242,Kam Air Flight
+104,5,99,0,COM,Cebu Pacific Air Flight 387,ENR ,1998,2,Monday,no survivors,Philippines,Mount Sumagaya,Collied,mountain collied,McDonnell,Douglas,Cebu Pacific Air
+104,7,97,0,COM,SilkAir Flight 185,ENR ,1997,12,Friday,no survivors,Indonesia,Musi River,Crashed,Misscommunication,Boeing,737-36N,SilkAir Flight 185
+104,6,98,0,COM,Iberia Flight 602,APR ,1972,1,Friday,no survivors,Spain,Ibiza,exploded,mountain collied,Sud,Aviation,Iberia Flight 602
+104,6,11,87,COM,Middle East Airlines Flight 265 and Turkish Air Force (CBK-28),APRENR ,1963,2,Friday,no survivors,Turkey,Ankara,Crashed,explosive device,Vickers,Viscount,Middle East Airlines
+103,11,92,0,COM,Afriqiyah Airways Flight 771,APR ,2010,5,Wednesday,survivors,Libya,Tripoli,Crashed,unable to control,Airbus,A330-202,Afriqiyah Airways Flight
+103,7,66,30,COM,EAS Airlines Flight 4226,ENR ,2002,5,Saturday,no survivors,Nigeria,Kano,Crashed,international act,BAC,One-Eleven,EAS Airlines Flight
+103,7,96,0,MIL,Iranian Air Force C-130 crash,APR ,1986,11,Sunday,no survivors,Iran,near Zahedan,Crashed,Into sea,Lockheed,C-130,Iranian Air Force
+102,6,96,0,COM,Adam Air Flight 574,ENR ,2007,1,Monday,no survivors,Indonesia,Makassar Strait,Crashed,while takeoff,Boeing,737-4Q8,Adam Air Flight
+102,6,96,0,COM,Air Algérie Flight 6289,ICL ,2003,3,Thursday,survivors,Algeria,Tamanrasset,exploded ,higy alltitude,Boeing,737-2T4,Air Algérie Flight
+102,5,97,0,COM,Dominicana de Aviación DC-9 (HI-177),ICL ,1970,2,Sunday,no survivors,Dominican Republic,Caribbean,Crashed ,While landing,McDonnell,Douglas,Dominicana de Aviación
+102,9,93,0,COM,Aeroflot Flight 558,ENR ,1972,8,Thursday,no survivors,USSR,near Spassky,accident ,mountain collied,Ilyushin,Il-18V,Aeroflot Flight 558
+101,11,90,0,COM,Thai Airways International Flight 261,APR ,1998,12,Friday,no survivors,Thailand,Surat Thani,Hijacked,terrorist attack,Airbus,A310-200,Thai Airways International
+101,5,96,0,COM,Eastern Air Lines Flight 401,APR ,1972,12,Friday,no survivors,U.S.,Everglades,Hijacked,Wing failure,Lockheed,L-1011-385-1,Eastern Air Lines
+101,7,92,2,COM,LANSA Flight 502,ICL ,1970,8,Sunday,survivors,Peru,Cusco,Collied,overloaded flight,Lockheed,L-188,LANSA Flight 502
+101,6,95,0,COM,Northwest Orient Airlines Flight 293,ENR ,1963,6,Monday,no survivors,U.S.,Pacific Ocean,Exploded,lost signal,Douglas,DC-7CF,Northwest Orient Airlines
+100,7,93,0,INH,Malaysian Airline System Flight 653,ENR ,1977,12,Sunday,no survivors,Malaysia,near Tanjung Kupang,Collied,mountain collied,Boeing,737-2H6,Malaysian Airline System
+100,7,93,0,COM,United Arab Airlines (SU-APC),LDG ,1969,3,Thursday,no survivors,Egypt,Aswan,Crashed,Misscommunication,Ilyushin,Il-18D,United Arab Airlines
+99,7.413793103,0,2,MIL,Indonesian Air Force (A-1325),APR ,2009,5,Wednesday,no survivors,Indonesia,near Madiun,explosion,mountain collied,Lockheed,C-130H,Indonesian Air Force
+99,6,90,3,COM,TAM Transportes Aéreos Regionais Flight 402,ICL ,1996,10,Thursday,no survivors,Brazil,São Paulo,caught fire ,explosive device,Fokker,100,TAM Transportes Aéreos
+99,4,95,0,COM,Aeroflot Flight 3603,APR ,1981,11,Monday,no survivors,USSR,near Norilsk,Shot down,unable to control,Tupolev,Tu-154B-2,Aeroflot Flight 3603
+99,8,91,0,COM,KLM Flight 607E,ENR ,1958,8,Thursday,no survivors,Ireland,Atlantic Ocean,Crashed ,international act,Lockheed,L-1049,KLM Flight 607E
+98,8,89,1,COM,Pakistan International Airlines Flight 8303,APR ,2020,5,Friday,no survivors,Pakistan,Karachi,Crashed,Into sea,Airbus,A320-214,Pakistan International Airlines
+98,8,90,0,COM,Khabarovsk United Air Group Flight 3949,ENR ,1995,12,Wednesday,no survivors,Russia,area of Grossevichi,Crashed,while takeoff,Tupolev,Tu-154B,Khabarovsk United Air
+98,6,92,0,MIL,Royal Saudi Air Force (469),APR ,1991,3,Thursday,no survivors,Saudi Arabia,near Khafji,Bomded,higy alltitude,Lockheed,C-130H,Royal Saudi Air
+98,6,92,0,MIL,Indian Air Force Flight 203,ENR ,1968,2,Wednesday,no survivors,India,Rohtang Pass,Shot down,While landing,Antonov,An-12BP,Indian Air Force
+98,6,92,0,COM,Britannia Airways Flight 105,APR ,1966,9,Thursday,no survivors,Yugoslavia,Komenda,Crashed,mountain collied,Bristol,175,Britannia Airways Flight
+97,10,87,0,COM,Pan Am Flight 806,APR ,1974,1,Wednesday,no survivors,American Samoa,Pago Pago,Crashed,terrorist attack,Boeing,707-321B,Pan Am Flight
+97,4,93,0,COM,Aeroflot Flight 1912,APR ,1971,7,Sunday,no survivors,USSR,Irkutsk,Crashed ,Wing failure,Tupolev,Tu-104B,Aeroflot Flight 1912
+97,17,80,0,COM,Varig Flight 810,APR ,1962,11,Tuesday,no survivors,Peru,La Cruz peak,Collied,overloaded flight,Boeing,707-441,Varig Flight 810
+96,8,88,0,MIL,Polish Air Force (101),APR ,2010,4,Saturday,no survivors,Russia,Smolensk,Crashed,lost signal,Tupolev,Tu-154M,Polish Air Force
+96,4,92,0,COM,ADC Airlines Flight 053,ICL ,2006,10,Sunday,no survivors,Nigeria,Abuja,Crashed,mountain collied,Boeing,737-2B7,ADC Airlines Flight
+95,6,89,0,COM,Indian Airlines Flight 171,APR ,1976,10,Tuesday,no survivors,India,Mumbai,diappeared,Misscommunication,Sud,Aviation,Indian Airlines Flight
+95,6,89,0,EXG,Air France Flight 1611,ENR ,1968,9,Wednesday,no survivors,France,Mediterranean,Crashed,mountain collied,Sud,Aviation,Air France Flight
+95,8,87,0,COM,American Airlines Flight 1,ICL ,1962,3,Thursday,no survivors,U.S.,Jamaica Bay,Collied,explosive device,Boeing,707-123B,American Airlines Flight
+94,7,87,0,COM,TAME Flight 120,APR ,2002,1,Monday,no survivors,Colombia,Cumbal Volcano,Crashed,unable to control,Boeing,727-134,TAME Flight 120
+94,12,82,0,COM,Aeroflot Flight 8381 and Soviet Air Force (SSSR-26492),APRENR ,1985,5,Friday,no survivors,USSR,Zolochiv,exploded,international act,Tupolev,Tu-134,Aeroflot Flight 8381
+94,9,85,0,COM,Alitalia Flight 771,ENR ,1962,7,Saturday,no survivors,India,Junnar,Crashed,Into sea,McDonnell,Douglas,Alitalia Flight 771
+93,6,87,0,COM,Aerovias Guatemala Caravelle (HC-BAE),APR ,1986,1,Saturday,no survivors,Guatemala,Flores,Crashed,while takeoff,Sud,Aviation,Aerovias Guatemala Caravelle
+93,6,87,0,COM,Iberia Flight 350 and  Aviaco Flight 134,TOFTXI ,1983,12,Wednesday,no survivors,Spain,Madrid,Crashed,higy alltitude,Boeing,727,Iberia Flight 350
+92,8,84,0,MIL,Russian Air Force (RA-85572),ENR ,2016,12,Sunday,no survivors,Russia,Black Sea,Crashed,While landing,Tupolev,Tu-154,Russian Air Force
+92,4,88,0,COM,Indian Airlines Flight 605,APR ,1990,2,Wednesday,no survivors,India,Bangalore,Crashed,mountain collied,Airbus,A320-231,Indian Airlines Flight
+92,7,85,0,COM,Trans World Airlines Flight 514,APR ,1974,12,Sunday,no survivors,U.S.,Mount Weather,exploded ,terrorist attack,Boeing,727-231,Trans World Airlines
+92,7,85,0,COM,Aeroflot Flight U-45,ENR ,1970,2,Friday,no survivors,USSR,Bulungur District,Crashed,Wing failure,Ilyushin,Il-18V,Aeroflot Flight U-45
+91,5,86,0,MIL,Sudanese Air Force,ENR ,1996,2,Monday,no survivors,Sudan,Jabal Awliya,Crashed,overloaded flight,Lockheed,C-130H,Sudanese Air Force
+91,3,0,88,COM,Lloyd Aéreo Boliviano (N730JP),ICL ,1976,10,Wednesday,no survivors,Bolivia,Santa Cruz,diappeared,lost signal,Boeing,707-131F,Lloyd Aéreo Boliviano
+91,6,85,0,COM,LANSA Flight 508,ENR ,1971,12,Friday,survivors,Peru,Puerto Inca,Crashed,mountain collied,Lockheed,L-188,LANSA Flight 508
+90,8,82,0,COM,Ethiopian Airlines Flight 409,ICL ,2010,1,Monday,no survivors,Lebanon,Mediterranean,Collied,Misscommunication,Boeing,737-8AS,Ethiopian Airlines Flight
+90,5,85,0,COM,One-Two-GO Airlines Flight 269,LDG ,2007,9,Sunday,no survivors,Thailand,Phuket,Crashed,mountain collied,McDonnell,Douglas,One-Two-GO Airlines Flight
+90,7,83,0,COM,Aeroflot Flight 5463,APR ,1983,8,Tuesday,no survivors,USSR,near Almaty,exploded,explosive device,Tupolev,Tu-134A,Aeroflot Flight 5463
+90,8,82,0,COM,Aeroflot Flight 411,ICL ,1982,7,Tuesday,no survivors,USSR,Mendeleyevo,Crashed,unable to control,Ilyushin,Il-62M,Aeroflot Flight 411
+90,8,82,0,COM,Aeroflot Flight 3843,APR ,1977,1,Thursday,no survivors,USSR,Almaty,Crashed,international act,Tupolev,Tu-104A,Aeroflot Flight 3843
+90,10,76,4,COM,Japan Air Lines Flight 471,APR ,1972,6,Wednesday,no survivors,India,near New Delhi,Crashed,Into sea,Douglas,DC-8-53,Japan Air Lines
+90,5,85,0,COM,Olympic Airways Flight 954,APR ,1969,12,Monday,no survivors,Greece,Keratea,Crashed,while takeoff,Douglas,DC-6,Olympic Airways Flight
+89,8,81,0,MIL,Royal Saudi Air Force (453),ICL ,1980,9,Sunday,no survivors,Saudi Arabia,Medina,Crashed,higy alltitude,Lockheed,C-130E,Royal Saudi Air
+89,6,83,0,COM,Delta Air Lines Flight 723,APR ,1973,7,Tuesday,no survivors,U.S.,Boston,exploded ,While landing,McDonnell,Douglas,Delta Air Lines
+88,6,82,0,COM,Aeroflot Flight 821,APR ,2008,9,Sunday,no survivors,Russia,Perm,Crashed,mountain collied,Boeing,737-505,Aeroflot Flight 821
+88,5,83,0,COM,Alaska Airlines Flight 261,ENR ,2000,1,Monday,no survivors,U.S.,Pacific Ocean,Crashed,terrorist attack,McDonnell,Douglas,Alaska Airlines Flight
+88,8,80,0,MIL,Iranian Air Force,ENR ,1997,3,Thursday,no survivors,Iran,near Mashhad,diappeared,Wing failure,Lockheed,C-130,Iranian Air Force
+88,9,79,0,INB,Trans World Airlines Flight 841,ENR ,1974,9,Sunday,no survivors,Greece,Mediterranean,Crashed,overloaded flight,Boeing,707-331B,Trans World Airlines
+88,5,83,0,COM,Air Ferry DC-4 G-APYK,ENR ,1967,6,Saturday,no survivors,France,Mont Canigou,Collied,lost signal,Douglas,C-54,Air Ferry DC-4
+87,5,82,0,COM,Air Inter Flight 5148,APR ,1992,1,Monday,no survivors,France,Barr,Crashed,mountain collied,Airbus,A320-111,Air Inter Flight
+87,10,77,0,COM,LOT Polish Airlines Flight 007,APR ,1980,3,Friday,no survivors,Poland,Warsaw,exploded,Misscommunication,Ilyushin,Il-62,LOT Polish Airlines
+87,11,76,0,COM,Nigeria Airways Flight 925,APR ,1969,11,Thursday,no survivors,Nigeria,Lagos,Crashed,mountain collied,Vickers,VC10,Nigeria Airways Flight
+87,7,80,0,COM,LAN Chile Flight 107,ENR ,1965,2,Saturday,no survivors,Chile,San José Volcano,Crashed,explosive device,Douglas,DC-6,LAN Chile Flight
+87,9,78,0,COM,Aeroflot Flight 721,APR ,1964,9,Wednesday,no survivors,USSR,near Yuzhno Sakhalinsk,Crashed,unable to control,Ilyushin,Il-18V,Aeroflot Flight 721
+87,5,82,0,MIL,US Air Force (50-0100),ICL ,1952,12,Saturday,no survivors,U.S.,Moses Lake,Crashed,international act,Douglas,C-124A,US Air Force
+86,6,79,1,COM,Aviaco Flight 118,APR ,1973,8,Monday,no survivors,Spain,A Coruña,Crashed,Into sea,Sud,Aviation,Aviaco Flight 118
+86,7,79,0,COM,Aeroflot Flight 03,ENR ,1962,9,Monday,no survivors,USSR,near Yelabuga,exploded ,while takeoff,Tupolev,Tu-104A,Aeroflot Flight 03
+85,6,79,0,COM,Tajikistan Airlines Flight 3183,APR ,1997,12,Monday,survivors,United Arab Emirates,Sharjah,Crashed,higy alltitude,Tupolev,Tu-154B-1,Tajikistan Airlines Flight
+85,5,80,0,COM,Braniff International Airways Flight 352,ENR ,1968,5,Friday,no survivors,U.S.,Dawson,Crashed,While landing,Lockheed,L-188A,Braniff International Airways
+85,4,81,0,MIL,US Air Force C-123 (56-4376),ENR ,1965,12,Saturday,no survivors,Vietnam,near Tuy Hòa,diappeared,mountain collied,Fairchild,C-123B-18-FA,US Air Force
+85,4,81,0,COM,Paradise Airlines Flight 901A,ENR ,1964,3,Sunday,no survivors,U.S.,Genoa,Crashed,terrorist attack,Lockheed,L-049,Paradise Airlines Flight
+84,7,77,0,COM,Aeroflot Flight 2808,APR ,1992,8,Thursday,no survivors,Russia,Andreevo,Collied,Wing failure,Tupolev,Tu-134A,Aeroflot Flight 2808
+84,0,84,0,MIL,Fuerza Aérea Sandinista (265),UNK ,1982,12,Thursday,no survivors,Nicaragua,near San Andres de Bocay,Crashed,overloaded flight,Mil,Mi-8TV,Fuerza Aérea Sandinista
+84,12,72,0,MIL,US Air Force (60-0373),ENR ,1965,6,Friday,no survivors,U.S.,Santiago Canyon,exploded,lost signal,Boeing,C-135,US Air Force
+84,5,79,0,COM,Eastern Air Lines Flight 663,ENR ,1965,2,Monday,no survivors,U.S.,Atlantic Ocean,Crashed,mountain collied,Douglas,DC-7B,Eastern Air Lines
+84,8,76,0,EXG,Aeroflot Flight 902,ENR ,1962,6,Saturday,no survivors,USSR,near Voznesenka,Crashed,Misscommunication,Tupolev,Tu-104A,Aeroflot Flight 902
+83,4,79,0,COM,Singapore Airlines Flight 006,TOF ,2000,10,Tuesday,no survivors,Taiwan,Dayuan District,Crashed,mountain collied,Boeing,747-412,Singapore Airlines Flight
+83,11,72,0,MIL,Russian Air Force (RA-74295),APR ,2000,10,Wednesday,no survivors,Georgia,Zundagi,Crashed,explosive device,Ilyushin,Il-18D,Russian Air Force
+83,4,79,0,COM,Palair Macedonian Airlines Flight 301,ICL ,1993,3,Friday,no survivors,Republic of Macedonia,Petrovec,Crashed,unable to control,Fokker,100,Palair Macedonian Airlines
+83,5,78,0,MIL,Afghanistan Air Force,ICL ,1990,8,Friday,no survivors,Afghanistan,near Shindand,Hijacked,international act,Antonov,An-12,Afghanistan Air Force
+83,9,74,0,COM,Thai Airways Flight 365,APR ,1987,8,Monday,no survivors,Thailand,Phuket,Hijacked,Into sea,Boeing,737-2P5,Thai Airways Flight
+83,5,78,0,COM,Allegheny Airlines Flight 853 and Private aircraft (N7374J),ENR ,1969,9,Tuesday,no survivors,U.S.,Fairland,Collied,while takeoff,McDonnell,Douglas,Allegheny Airlines Flight
+83,9,74,0,COM,Aeroflot Flight 15,ENR ,1968,2,Thursday,survivors,USSR,Parchum,Exploded,higy alltitude,Ilyushin,Il-18D,Aeroflot Flight 15
+83,5,78,0,COM,American Flyers Airline Flight 280/D,APR ,1966,4,Friday,no survivors,U.S.,Ardmore,Collied,While landing,Lockheed,L-188,American Flyers Airline
+83,8,75,0,COM,British Eagle International Airlines Flight 802/6,ENR ,1964,2,Saturday,no survivors,Austria,Glungezer mountain,Crashed,mountain collied,Bristol,175,British Eagle International
+83,6,77,0,COM,President Airlines (N90773),ICL ,1961,9,Sunday,no survivors,Ireland,Shannon,explosion,terrorist attack,Douglas,DC-6B,President Airlines (N90773)
+82,5,77,0,COM,Tajikistan Airlines (87995),TOF ,1993,8,Saturday,no survivors,Tajikistan,Khorog,caught fire ,Wing failure,Yakovlev,Yak-40,Tajikistan Airlines (87995)
+82,7,60,15,COM,Aeroméxico Flight 498 and Private aircraft (N4891F),APR ,1986,8,Sunday,no survivors,U.S.,Cerritos,Shot down,overloaded flight,McDonnell,Douglas,Aeroméxico Flight 498
+82,8,74,0,INB,Aeroflot Flight 109,ENR ,1973,5,Saturday,no survivors,USSR,Area of Chita,Crashed ,lost signal,Tupolev,Tu-104B,Aeroflot Flight 109
+82,6,76,0,COM,Piedmont Airlines Flight 22 and Private aircraft (N31215S),ENR ,1967,7,Wednesday,no survivors,U.S.,Hendersonville,Crashed,mountain collied,Boeing,727-22,Piedmont Airlines Flight
+82,8,74,0,COM,TABSO Flight 101,ENR ,1966,11,Thursday,no survivors,Czechoslovakia,Bratislava,Crashed,Misscommunication,Ilyushin,Il-18B,TABSO Flight 101
+81,4,77,0,EXS,Itavia Flight 870[357][358] [x],ENR,1980,6,Friday,no survivors,Italy,Tyrrhenian Sea,Bomded,mountain collied,McDonnell,Douglas,Itavia Flight 870[357][358]
+81,15,66,0,INB,Middle East Airlines Flight 438,ENR ,1976,1,Thursday,no survivors,Saudi Arabia,As Sufayri,Shot down,explosive device,Boeing,720-023B,Middle East Airlines
+81,10,71,0,INB,Cathay Pacific Airways Flight 700Z,ENR ,1972,6,Thursday,no survivors,Vietnam,area of Pleiku,Crashed,unable to control,Convair,880-22M-21,Cathay Pacific Airways
+81,8,73,0,COM,Pan Am Flight 214,APR ,1963,12,Sunday,no survivors,U.S.,Elkton,Crashed,international act,Boeing,707-121,Pan Am Flight
+81,7,74,0,COM,Aeroflot Flight 415,APR ,1962,7,Saturday,no survivors,USSR,Kholodnaya Rechka,Crashed ,Into sea,Antonov,An-10A,Aeroflot Flight 415
+80,9,71,0,MIL,Moroccan Air Force (CAN-OQ),APR ,2011,7,Tuesday,no survivors,Morocco,Goulimime,Collied,while takeoff,Lockheed,C-130,Moroccan Air Force
+80,14,56,10,COM,Cubana de Aviación Flight 389,TOF ,1998,8,Saturday,no survivors,Ecuador,Quito,Crashed,higy alltitude,Tupolev,Tu-154M,Cubana de Aviación
+80,4,76,0,COM,Air Mauritanie Flight 625,LDG ,1994,7,Friday,no survivors,Mauritania,Tidjikja,Crashed,While landing,Fokker,F28,Air Mauritanie Flight
+80,4,76,0,COM,Fuerza Aérea Colombiana (FAC-902),ENR ,1985,7,Wednesday,no survivors,Colombia,near Leticia,diappeared,mountain collied,Douglas,DC-6B,Fuerza Aérea Colombiana
+80,7.413793103,0,20,MIL,Iranian Air Force (5-8552),ENR ,1981,9,Tuesday,no survivors,Iran,Kahrizak,Crashed,terrorist attack,Lockheed,C-130H,Iranian Air Force
+80,7,73,0,COM,Union de Transportes Aériens (F-BHMS),ENR ,1964,10,Friday,no survivors,Spain,Mount Alcazaba,Collied,Wing failure,Douglas,DC-6B,Union de Transportes
+80,5,74,1,MIL,US Air Force (61-0332),APR ,1964,5,Monday,no survivors,Philippines,Angeles City,Crashed,overloaded flight,Boeing,C-135B,US Air Force
+80,6,74,0,COM,Swissair Flight 306,ENR ,1963,9,Wednesday,no survivors,Switzerland,Dürrenäsch,exploded,lost signal,Sud,Aviation,Swissair Flight 306
+80,7,73,0,COM,World Airways Flight 830,ENR ,1960,9,Monday,no survivors,U.S.,Mount Barrigada,Crashed,mountain collied,Douglas,DC-6A,World Airways Flight
+80,9,71,0,COM,Aeroflot (CCCP-42362),ENR ,1958,10,Friday,no survivors,USSR,Vurnarsky District,Crashed,Misscommunication,Tupolev,Tu-104A,Aeroflot (CCCP-42362)
+80,5,75,0,COM,Fairflight (G-AKBY),APR ,1950,3,Sunday,no survivors,UK,Sigingstone,Crashed,mountain collied,Avro,689,Fairflight (G-AKBY)
+79,3,72,4,COM,Korean Air Flight 803,APR ,1989,7,Thursday,no survivors,Libya,Tripoli,Crashed,explosive device,McDonnell,Douglas,Korean Air Flight
+79,7,72,0,COM,Aeroflot Flight 630,ENR ,1973,2,Saturday,no survivors,USSR,near Khujand,Crashed,unable to control,Ilyushin,Il-18V,Aeroflot Flight 630
+79,6,73,0,MIL,US Air Force (55-4574),ENR ,1970,11,Friday,no survivors,Vietnam,Khánh Phu,exploded ,international act,Fairchild,C-123K,US Air Force
+79,7,72,0,COM,Mexicana de Aviación Flight 704,ENR ,1969,6,Wednesday,no survivors,Mexico,El Carmen,Crashed ,Into sea,Boeing,727-64,Mexicana de Aviación
+79,6,73,0,COM,Maritime Central Airways Flight 315,ENR ,1945,3,Monday,no survivors,Canada,Issoudun,accident ,while takeoff,Douglas,DC-4,Maritime Central Airways
+79,6,73,0,MIL,Luftwaffe,TOF ,1945,3,Monday,survivors,Poland,Lake Resko,Hijacked,higy alltitude,Dornier,Do,Luftwaffe
+78,12,66,0,EXG,Siberia Airlines Flight 1812,ENR ,2001,10,Thursday,no survivors,Turkey,Black Sea,Hijacked,While landing,Tupolev,Tu-154M,Siberia Airlines Flight
+78,4,70,4,COM,Air Florida Flight 90,ICL ,1982,1,Wednesday,no survivors,United States,Washington,Collied,mountain collied,Boeing,737-222,Air Florida Flight
+78,7,70,1,MIL,Indian Air Force,APR ,1978,11,Sunday,no survivors,India,Leh,Exploded,terrorist attack,Antonov,An-12,Indian Air Force
+78,3,75,0,COM,Wenela Air Services (A2-ZER),APR ,1974,4,Thursday,no survivors,Botswana,Francistown,Collied,Wing failure,Douglas,DC-4,Wenela Air Services
+78,10,68,0,COM,Pan Am Flight 816,ENR ,1973,7,Sunday,survivors,French Polynesia,Pacific Ocean,Crashed,overloaded flight,Boeing,707-321B,Pan Am Flight
+78,3,75,0,COM,Aviogenex Flight 130,LDG ,1971,5,Sunday,no survivors,Yugoslavia,Omišalj,explosion,lost signal,Tupolev,Tu-134A,Aviogenex Flight 130
+78,5,73,0,COM,Trans World Airlines Flight 529,ENR ,1961,9,Friday,no survivors,U.S.,Hinsdale,caught fire ,terrorist attack,Lockheed,L-049,Trans World Airlines
+78,9,69,0,INB,Air France Flight 406,ENR ,1961,5,Wednesday,no survivors,Algeria,near Zarzaitine,Shot down,terrorist attack,Lockheed,L-1649A,Air France Flight
+77,4,72,0,MIL,Algerian Air Force C-130,ENR ,2014,2,Tuesday,survivors,Algeria,Aïn Kercha,Crashed ,System failure,Lockheed,C-130,Algerian Air Force
+77,8,69,0,COM,Iran Air Flight 277,APR ,2011,1,Sunday,no survivors,Iran,Urmia,Crashed,structure failure,Boeing,727-286Adv,Iran Air Flight
+77,0,0,77,MIL,Sknyliv air show disaster,MNV ,2002,7,Saturday,no survivors,Ukraine,Lviv,Crashed,System failure,Sukhoi,Su-27,Sknyliv air show
+77,9,68,0,MIL,Soviet Air Force (CCCP-86732),APR ,1988,12,Sunday,survivors,Armenia,Gyumri,Bomded,System failure,Ilyushin,IL-76M,Soviet Air Force
+77,1,76,0,COM,Aeroflot Flight 5003,APR ,1977,2,Tuesday,no survivors,USSR,near Mineralnye Vody,Shot down,Bomb planted,Ilyushin,Il-18V,Aeroflot Flight 5003
+77,3,74,0,COM,Imperial Airlines Flight 201/8,APR ,1961,11,Wednesday,no survivors,U.S.,Richmond,Crashed,after takeoff,Lockheed,L-049,Imperial Airlines Flight
+77,6,71,0,COM,Air France Flight 2005,APR ,1961,9,Tuesday,no survivors,Morocco,Rabat,Crashed,missile attack,Sud,Aviation,Air France Flight
+76,5,71,0,MIL,Afghanistan Air Force,ENR ,1993,4,Tuesday,no survivors,Afghanistan,Tashkurgan,Crashed ,mountain collied,Antonov,An-32,Afghanistan Air Force
+76,6,70,0,COM,Československé Státní Aerolinie Flight 001,APR ,1976,7,Wednesday,no survivors,Czechoslovakia,Bratislava,Collied,engine problem,Ilyushin,Il-18B,Československé Státní Aerolinie
+76,5,69,2,MIL,Air Vietnam C-54D (XV-NUG) and US Air Force,APR ,1969,9,Saturday,survivors,Vietnam,Da Nang,Crashed,Wing failure,Douglas,C-54D-10-DC,Air Vietnam C-54D
+75,13,62,0,COM,Ukrainian-Mediterranean Airlines Flight 4230,APR ,2003,5,Monday,no survivors,Turkey,Maçka,Crashed,terrorist attack,Yakovlev,Yak-42,Ukrainian-Mediterranean Airlines Flight
+75,5,70,0,COM,Turkish Airlines Flight 634,APR ,2003,1,Wednesday,no survivors,Turkey,Diyarbakır,diappeared,aircraft,Avro,RJ100,Turkish Airlines Flight
+75,6,69,0,COM,Peruvian Air Force (FAP-351),ENR ,1998,5,Tuesday,no survivors,Peru,Andoas,Crashed,System failure,Boeing,737-282,Peruvian Air Force
+75,5,70,0,MIL,Sri Lanka Air Force (CR861),ENR ,1995,9,Tuesday,no survivors,Sri Lanka,Laccadive Sea,Collied,unable to control,Antonov,An-32B,Sri Lanka Air
+75,12,63,0,COM,Aeroflot Flight 593,ENR ,1994,3,Wednesday,no survivors,Russia,near Mezhdurechensk,Crashed,caught fire,Airbus,A310-304,Aeroflot Flight 593
+76,3,73,0,COM,Vietnam Airlines Flight 831,APR ,1988,9,Friday,no survivors,Thailand,Lam Luk Ka District,exploded,mountain collied,Tupolev,Tu-134,Vietnam Airlines Flight
+75,4,71,0,COM,Inex-Adria Aviopromet Flight 450,APR ,1975,10,Thursday,no survivors,Czechoslovakia,Prague,Crashed,Wing failure,McDonnell,Douglas,Inex-Adria Aviopromet Flight
+75,6,69,0,COM,Avensa Flight 358,ENR ,1974,12,Sunday,no survivors,Venezuela,near Maturín,Crashed,overloaded flight,McDonnell,Douglas,Avensa Flight 358
+75,8,67,0,INH,Air Vietnam Flight 706,ICL ,1974,9,Sunday,no survivors,Vietnam,near Phan Rang,Crashed,lost signal,Boeing,727-121C,Air Vietnam Flight
+75,4,71,0,COM,Southern Airways Flight 932,APR ,1970,11,Saturday,no survivors,U.S.,Ceredo,Crashed,mountain collied,McDonnell,Douglas,Southern Airways Flight
+74,6,68,0,EXG,Russian Air Force (RF-86868),ENR ,2024,1,Wednesday,no survivors,Russia,Yablonovo,Crashed,Misscommunication,Ilyushin,Il-76M,Russian Air Force
+74,4,70,0,COM,Hewa Bora Airways Flight 952,LDG ,2011,7,Friday,no survivors,DR Congo,Kisangani,exploded ,mountain collied,Boeing,727-022,Hewa Bora Airways
+74,5,69,0,COM,Austral Líneas Aéreas Flight 2553,ENR ,1997,10,Friday,no survivors,Uruguay,Nuevo Berlín,Crashed ,explosive device,McDonnell,Douglas,Austral Líneas Aéreas
+74,5,69,0,COM,Lloyd Aéreo Boliviano (CP-698),ENR ,1969,9,Friday,no survivors,Bolivia,Mount Choquetanga,accident ,unable to control,Douglas,DC-6B,Lloyd Aéreo Boliviano
+74,10,64,0,COM,Linea Aeropostal Venezolana Flight 253,ENR ,1956,6,Wednesday,no survivors,U.S.,New York Bight,Hijacked,international act,Lockheed,L-1049,Linea Aeropostal Venezolana
+73,6,67,0,MIL,Israeli Air Force (357) and Israeli Air Force (903),ENR ,1997,2,Tuesday,no survivors,Israel,She'ar Yashuv,Hijacked,Into sea,Sikorsky,S-65C-3,Israeli Air Force
+73,8,65,0,COM,Avianca Flight 052,APR ,1990,1,Thursday,no survivors,U.S.,Cove Neck,Collied,while takeoff,Boeing,707-321B,Avianca Flight 052
+73,7.413793103,0,0,MIL,Ethiopian Air Force,UNK ,1982,1,Thursday,no survivors,Ethiopia,near Addis Ababa,Exploded,higy alltitude,Antonov,An-26,Ethiopian Air Force
+73,9,63,1,COM,Western Airlines Flight 2605,LDG ,1979,10,Wednesday,no survivors,Mexico,Mexico City,Collied,While landing,McDonnell,Douglas,Western Airlines Flight
+73,7,66,0,COM,Balkan Bulgarian Airlines Flight 107,ENR ,1978,3,Thursday,no survivors,Bulgaria,Gabare,Crashed,mountain collied,Tupolev,Tu-134,Balkan Bulgarian Airlines
+73,25,48,0,INB,Cubana de Aviación Flight 455,ENR ,1976,10,Wednesday,no survivors,Barbados,Atlantic Ocean,explosion,terrorist attack,Douglas,DC-8-43,Cubana de Aviación
+73,11,61,1,COM,Sabena Flight 548,APR ,1961,2,Wednesday,no survivors,Belgium,Kampenhout,caught fire ,terrorist attack,Boeing,707-320,Sabena Flight 548
+73,11,0,62,MIL,US Air Force (42-40682),UNK,1943,9,Tuesday,no survivors,Papua New Guinea (then Territory of Papua),Port Moresby,Shot down,System failure,Consolidated,B-24,US Air Force
+73,7.413793103,0,0,MIL,USS Akron,,1933,4,Tuesday,no survivors,U.S.,Atlantic Ocean,Crashed ,structure failure,Akron-class,rigid,USS Akron
+72,4,68,0,COM,Yeti Airlines Flight 691,APR ,2023,1,Sunday,no survivors,Nepal,Pokhara,Crashed,System failure,ATR,72-500,Yeti Airlines Flight
+72,8,15,49,MIL,Russian Air Force (RA-82005),ICL ,1997,12,Saturday,no survivors,Russia,Irkutsk,Crashed,System failure,Antonov,An-124-100,Russian Air Force
+72,9,63,0,COM,Aeroflot Flight 892,APR ,1986,12,Friday,no survivors,East Germany,Bohnsdorf,Hijacked,Bomb planted,Tupolev,Tu-134A,Aeroflot Flight 892
+72,2,61,9,COM,Southern Airways Flight 242,ENR ,1977,4,Monday,no survivors,U.S.,New Hope,Hijacked,after takeoff,McDonnell,Douglas,Southern Airways Flight
+72,5,67,0,COM,Aeroflot Flight 2415,ENR ,1976,11,Sunday,no survivors,USSR,Dmitrovsky District,Collied,missile attack,Tupolev,Tu-104B,Aeroflot Flight 2415
+72,2,70,0,COM,Eastern Air Lines Flight 212,APR ,1974,9,Wednesday,no survivors,U.S.,Charlotte,Exploded,mountain collied,McDonnell,Douglas,Eastern Air Lines
+72,6,66,0,COM,Faucett (OB-R-148),ENR ,1967,12,Friday,no survivors,Peru,Cordillera Blanca,Collied,engine problem,Douglas,C-54A-5-DC,Faucett (OB-R-148)
+72,3,69,0,COM,British Midland Airways Flight 542,APR ,1967,6,Sunday,no survivors,UK,Stockport,Crashed,Wing failure,Canadair,C-4,British Midland Airways
+72,8,64,0,COM,Československé Státní Aerolinie Flight 511,ENR ,1961,7,Wednesday,no survivors,Morocco,Bouskoura,explosion,terrorist attack,Ilyushin,Il-18V,Československé Státní Aerolinie
+71,6,65,0,COM,Saratov Airlines Flight 703,ICL ,2018,2,Sunday,no survivors,Russia,near Stepanovskoye,caught fire ,aircraft,Antonov,An-148,Saratov Airlines Flight
+71,7,64,0,COM,LaMia Flight 2933,ENR ,2016,11,Monday,no survivors,Colombia,Medellin,Shot down,System failure,Avro,RJ85,LaMia Flight 2933
+71,11,60,0,COM,BAL Bashkirian Airlines Flight 2937 and DHL International Aviation ME Flight 611,ENR ,2002,7,Monday,no survivors,Germany,Überlingen,Crashed ,unable to control,Tupolev,Tu-154M,BAL Bashkirian Airlines
+71,3,68,0,COM,Cameroon Airlines Flight 3701,APR ,1995,12,Sunday,no survivors,Cameroon,Douala,Crashed,caught fire,Boeing,737-200,Cameroon Airlines Flight
+71,9,43,19,COM,EgyptAir Flight 864,APR ,1976,12,Saturday,no survivors,Thailand,Bangkok,Crashed,mountain collied,Boeing,707-366C,EgyptAir Flight 864
+70,8,62,0,COM,Aerosvit Ukrainian Airlines Flight 241,ENR ,1997,12,Wednesday,no survivors,Greece,Pierian Mountains,Bomded,Wing failure,Yakovlev,Yak-42,Aerosvit Ukrainian Airlines
+70,9,61,0,COM,Aeroperú Flight 603,ENR ,1996,10,Wednesday,no survivors,Peru,Pacific Ocean,Shot down,overloaded flight,Boeing,757-23A,Aeroperú Flight 603
+70,7,63,0,COM,Mandala Airlines Flight 660,APR ,1992,7,Friday,no survivors,Indonesia,Mount Lalaboy,Crashed,lost signal,Vickers,Viscount,Mandala Airlines Flight
+70,3,0,67,MIL,Ramstein air show disaster,MNV ,1988,8,Sunday,no survivors,West Germany,Ramstein-Miesenbach,Crashed,mountain collied,Aermacchi,MB-339,Ramstein air show
+70,4,66,0,COM,Aeroflot Flight 6502,LDG ,1986,10,Monday,no survivors,USSR,Kurumoch,Crashed ,Misscommunication,Tupolev,Tu-134A,Aeroflot Flight 6502
+70,6,64,0,COM,Galaxy Airlines Flight 203,ICL ,1985,1,Monday,survivors,U.S.,Reno,Collied,mountain collied,Lockheed,L-188,Galaxy Airlines Flight
+70,7,63,0,COM,Transportes Aéreos del Cesar (HK-1810),ENR ,1980,12,Sunday,no survivors,Colombia,Riohacha,Crashed,explosive device,Sud,Aviation,Transportes Aéreos del
+70,9,61,0,COM,Aeroflot Flight 7957 and Aeroflot Flight 31,ENR ,1976,9,Thursday,no survivors,USSR,Black Sea,Crashed,unable to control,Antonov,An-24,Aeroflot Flight 7957
+70,5,65,0,COM,Trans World Airlines Flight 128,APR ,1967,11,Monday,no survivors,U.S.,Hebron,diappeared,international act,Convair,CV-880-22-1,Trans World Airlines
+69,6,63,0,COM,Indian Airlines Flight 257,APR ,1991,8,Friday,no survivors,India,Imphal,Crashed,Into sea,Boeing,737-2A8,Indian Airlines Flight
+69,9,59,1,COM,Aeroflot Flight 331,APR ,1977,5,Friday,no survivors,Cuba,Boyeros,Collied,while takeoff,Ilyushin,Il-62M,Aeroflot Flight 331
+69,7,62,0,COM,Merpati Nusantara Airlines Viscount (PK-MVS),ENR ,1971,11,Wednesday,no survivors,Indonesia,Mentawai Strait,Crashed,higy alltitude,Vickers,Viscount,Merpati Nusantara Airlines
+69,9,60,0,COM,Fuerza Aérea Argentina (TC-48),ENR ,1965,11,Wednesday,no survivors,Central America[ae],Central America[ae],exploded,While landing,Douglas,C-54,Fuerza Aérea Argentina
+68,7,61,0,COM,Aero Caribbean Flight 883,ENR ,2010,11,Thursday,no survivors,Cuba,Guasimal,Crashed,mountain collied,ATR,72-212,Aero Caribbean Flight
+68,4,64,0,COM,Simmons Airlines Flight 4184,APR ,1994,10,Monday,no survivors,U.S.,near Roselawn,Crashed,terrorist attack,ATR,72-212,Simmons Airlines Flight
+68,2,66,0,COM,Asiana Airlines Flight 733,APR ,1993,7,Monday,no survivors,South Korea,Mokpo,Crashed,terrorist attack,Boeing,737-5L9,Asiana Airlines Flight
+68,10,58,0,COM,Fuerza Aérea Venezolana C-130H (7772),APR ,1976,9,Friday,no survivors,Portugal,Lajes,Crashed,System failure,Lockheed,C-130H,Fuerza Aérea Venezolana
+68,7,61,0,COM,Iberia Flight 504 and Spantax Flight 400,ENR ,1973,3,Monday,no survivors,France,La Planche,Crashed,structure failure,McDonnell,Douglas,Iberia Flight 504
+68,4,64,0,COM,Toa Domestic Airlines Flight 63,ENR ,1971,7,Saturday,no survivors,Japan,Yokotsu Mountain,exploded ,System failure,NAMC,YS-11A-217,Toa Domestic Airlines
+68,9,59,0,COM,Trans World Airlines Flight 891,ENR ,1959,6,Friday,no survivors,Italy,Busto Arsizio,Crashed ,System failure,Lockheed,L-1649,Trans World Airlines
+67,7,60,0,COM,PSA Airlines Flight 5342 and United States Army (00-26860),APR ,2025,1,Wednesday,no survivors,U.S.,Washington,accident ,Bomb planted,Bombardier,CRJ701ER,PSA Airlines Flight
+67,4,63,0,COM,Transporte Aéreo Militar (TAM-44),ENR ,1975,10,Monday,no survivors,Bolivia,Cordillera Oriental,Hijacked,after takeoff,Convair,CV-440-12,Transporte Aéreo Militar
+67,8,59,0,COM,Aeroflot Flight 25,ENR ,1963,4,Thursday,no survivors,USSR,Urakhcha,Hijacked,missile attack,Ilyushin,Il-18,Aeroflot Flight 25
+67,7,60,0,COM,Aerolíneas Argentinas Flight 644,ENR ,1961,7,Wednesday,no survivors,Argentina,Cachari,Collied,mountain collied,Douglas,DC-6,Aerolíneas Argentinas Flight
+67,10,57,0,MIL,US Air Force (50-0702),ENR ,1957,3,Friday,no survivors,Pacific Ocean,Pacific Ocean,Exploded,engine problem,Boeing,C-97C-35-BO,US Air Force
+66,6,60,0,COM,Iran Aseman Airlines Flight 3704,ENR ,2018,2,Sunday,no survivors,Iran,Mount Dena,Collied,Wing failure,ATR,72-212,Iran Aseman Airlines
+66,10,56,0,COM,EgyptAir Flight 804,ENR ,2016,5,Thursday,no survivors,eastern Mediterranean Sea,eastern Mediterranean Sea,Crashed,terrorist attack,Airbus,A320-232,EgyptAir Flight 804
+66,7,59,0,COM,Iran Aseman Airlines Flight 746,ENR,1994,10,Wednesday,no survivors,Iran,Natanz,explosion,aircraft,Fokker,F28,Iran Aseman Airlines
+66,4,62,0,COM,Turkish Airlines Flight 301,TOF ,1974,1,Saturday,no survivors,Turkey,Cumaovası,caught fire ,System failure,Fokker,F28-1000,Turkish Airlines Flight
+66,4,62,0,COM,Aeroflot Flight 141,APR ,1973,2,Monday,no survivors,Czechoslovakia,Prague,Shot down,unable to control,Tupolev,Tu-154,Aeroflot Flight 141
+66,7,59,0,INB,Cyprus Airways Flight 284,ENR ,1967,10,Thursday,no survivors,Turkey,Mediterranean,Crashed ,caught fire,de,Havilland,Cyprus Airways Flight
+66,3,63,0,COM,United Airlines Flight 409,ENR ,1955,10,Thursday,no survivors,U.S.,Medicine Bow Peak,Crashed,mountain collied,Douglas,DC-4,United Airlines Flight
+66,11,55,0,MIL,1955 Altensteig mid-air collision,MNV ,1955,8,Thursday,no survivors,West Germany,near Altensteig,Crashed,Wing failure,Fairchild,C-119,1955 Altensteig mid-air
+66,9,57,0,COM,United States Navy (131612),APR ,1955,3,Tuesday,no survivors,U.S.,Pali Kea Peak,Bomded,overloaded flight,Douglas,R6D-1,United States Navy
+65,0,65,0,COM,Iran Aseman Airlines Flight 6895,APR ,2008,8,Sunday,no survivors,Kyrgyzstan,Bishkek,Shot down,lost signal,Boeing,737-219,Iran Aseman Airlines
+65,3,60,2,COM,Líneas Aéreas Privadas Argentinas Flight 3142,TOF ,1999,8,Tuesday,no survivors,Argentina,Palermo,Crashed,mountain collied,Boeing,737-204C,Líneas Aéreas Privadas
+65,6,59,0,COM,Vietnam Airlines Flight 815,APR ,1997,9,Wednesday,survivors,Cambodia,Phnom Penh,Crashed,Misscommunication,Tupolev,Tu-134,Vietnam Airlines Flight
+65,7,58,0,COM,Aviateca Flight 901,APR ,1995,8,Wednesday,no survivors,El Salvador,San Vicente volcano,Crashed ,mountain collied,Boeing,737-200,Aviateca Flight 901
+65,8,57,0,COM,Aeroflot Flight 1969,APR ,1971,3,Wednesday,no survivors,USSR,Lutuhyne,Collied,explosive device,Antonov,An-10,Aeroflot Flight 1969
+65,2,63,0,COM,American Airlines Flight 320,APR ,1959,2,Tuesday,no survivors,U.S.,East River,Crashed,unable to control,Lockheed,L-188,American Airlines Flight
+64,10,54,0,COM,Canadian Pacific Air Lines Flight 402,APR ,1966,3,Friday,no survivors,Japan,Tokyo,Crashed,international act,Douglas,DC-8-43,Canadian Pacific Air
+64,3,61,0,COM,Aeroflot Flight 20,APR ,1965,1,Monday,no survivors,USSR,Almaty,diappeared,Into sea,Ilyushin,Il-18B,Aeroflot Flight 20
+64,11,53,0,COM,Aeroflot Flight 04,ENR ,1958,8,Friday,no survivors,USSR,near Chita,Crashed,while takeoff,Tupolev,Tu-104A,Aeroflot Flight 04
+63,5,58,0,COM,Elleniki Polemikí Aeroporía (748),ENR ,1991,2,Tuesday,no survivors,Greece,Mount Othrys,Collied,higy alltitude,Lockheed,C-130H,Elleniki Polemikí Aeroporía
+63,3,60,0,INH,Iraqi Airways Flight 163,ENR ,1986,12,Thursday,no survivors,Saudi Arabia,near Arar,Crashed,While landing,Boeing,737-270C,Iraqi Airways Flight
+63,5,58,0,COM,Aeroflot Flight 5484,ENR ,1979,8,Wednesday,no survivors,USSR,near Kirsanov,exploded,mountain collied,Tupolev,Tu-124V,Aeroflot Flight 5484
+63,8,55,0,COM,Aeroflot Flight 6551,ENR ,1973,5,Friday,no survivors,USSR,Maksut,Crashed,terrorist attack,Ilyushin,Il-18,Aeroflot Flight 6551
+63,8,55,0,COM,British European Airways Flight 706,ENR ,1971,10,Saturday,no survivors,Belgium,Aarsele,Crashed,Wing failure,Vickers,951,British European Airways
+63,11,52,0,COM,Air France Flight 212 (F-BLCJ),APR ,1968,3,Tuesday,no survivors,Guadeloupe,La Grande Soufrière volcano,Crashed,overloaded flight,Boeing,707-328C,Air France Flight
+63,8,55,0,COM,United Arab Airlines Flight 869[af],APR ,1963,7,Saturday,no survivors,off Bombay Airport,Arabian Sea,Crashed,lost signal,de,Havilland,United Arab Airlines
+63,8,55,0,COM,Air France Flight 343,APR ,1960,8,Monday,no survivors,Senegal,Yoff,Crashed,mountain collied,Lockheed,L-1049G,Air France Flight
+63,6,57,0,COM,Northwest Orient Airlines Flight 710,ENR ,1960,3,Thursday,no survivors,U.S.,Cannelton,exploded ,Misscommunication,Lockheed,L-188C,Northwest Orient Airlines
+62,4,58,0,COM,Voepass Linhas Aéreas Flight 2283,ENR ,2024,8,Friday,no survivors,Brazil,Vinhedo,Crashed ,mountain collied,ATR,72-500,Voepass Linhas Aéreas
+62,12,50,0,COM,Sriwijaya Air Flight 182,ENR ,2021,1,Saturday,no survivors,Indonesia,Java Sea,accident ,explosive device,Boeing,737-524,Sriwijaya Air Flight
+62,7,55,0,COM,Flydubai Flight 981,LDG ,2016,3,Saturday,no survivors,Russia,Rostov-on-Don,Hijacked,unable to control,Boeing,737-8KN,Flydubai Flight 981
+62,6,56,0,MIL,Sri Lanka Air Force (CR862),APR ,1995,11,Wednesday,no survivors,Sri Lanka,Jaffna,Hijacked,international act,Antonov,An-32B,Sri Lanka Air
+62,5,56,1,COM,Aeroflot Flight 2003,ICL ,1976,1,Saturday,no survivors,USSR,Kokoshkino,Collied,Into sea,Tupolev,Tu-124V,Aeroflot Flight 2003
+62,11,51,0,COM,Air France Flight 212 (F-BHSZ),ENR ,1969,12,Thursday,no survivors,Venezuela,Caribbean,Exploded,while takeoff,Boeing,707-328B,Air France Flight
+62,3,59,0,COM,Eastern Air Lines Flight 375,ICL ,1960,10,Tuesday,no survivors,U.S.,Boston,Collied,higy alltitude,Lockheed,L-188,Eastern Air Lines
+62,3,59,0,COM,Trans-Canada Air Lines Flight 810-9,ENR ,1956,12,Sunday,no survivors,Canada,Slesse Mountain,Crashed,While landing,Canadair,North,Trans-Canada Air Lines
+61,11,50,0,COM,China Southwest Airlines Flight 4509,APR ,1999,2,Wednesday,no survivors,China,Wenzhou,explosion,mountain collied,Tupolev,Tu-154M,China Southwest Airlines
+61,3,58,0,MIL,Russian Air Force,UNK ,1992,12,Monday,no survivors,Georgia,near Lata,caught fire ,terrorist attack,Mil,Mi-8T,Russian Air Force
+61,4,57,0,COM,Garuda Indonesian Airways (PK-GVE),ENR ,1979,7,Wednesday,no survivors,Indonesia,Mount Sibayak,Shot down,Wing failure,Fokker,F28-1000,Garuda Indonesian Airways
+61,9,52,0,COM,Japan Air Lines Flight 446,ICL ,1972,11,Tuesday,no survivors,USSR,Moscow,Crashed ,overloaded flight,McDonnell,Douglas,Japan Air Lines
+61,5,56,0,COM,Royal Air Maroc (CN-CCV),APR ,1970,4,Wednesday,no survivors,Morocco,Berrechid,Crashed,lost signal,Sud,Aviation,Royal Air Maroc
+61,4,57,0,COM,Aer Lingus Flight 712,ENR ,1968,3,Sunday,no survivors,Ireland,St George's Channel,Crashed,mountain collied,Vickers,Viscount,Aer Lingus Flight
+61,14,47,0,COM,Viasa Flight 897,ENR ,1961,5,Tuesday,no survivors,Portugal,Atlantic Ocean,Bomded,Misscommunication,Douglas,DC-8-53,Viasa Flight 897
+61,11,50,0,COM,US Navy (131582) and Real Transportes Aéreos Flight 751,APR ,1960,2,Thursday,no survivors,Brazil,Guanabara Bay,Shot down,mountain collied,Douglas,R6D-1,US Navy (131582)
+61,9,52,0,COM,Sabena (OO-SFA),APR ,1958,5,Sunday,no survivors,Morocco,Casablanca,Crashed,explosive device,Douglas,DC-7C,Sabena (OO-SFA)
+61,6,55,0,COM,Aerolíneas Argentinas Flight 670,ENR ,1957,12,Sunday,no survivors,Argentina,near Bolívar,Crashed,unable to control,Douglas,DC-4,Aerolíneas Argentinas Flight
+61,3,0,58,MIL,US Army Air Force (42-50291),APR ,1944,8,Wednesday,no survivors,UK,Freckleton,Crashed ,international act,Consolidated,B-24,US Army Air
+60,6,54,0,COM,Equatorial Express Airlines (3C-VQR),ENR ,2005,7,Saturday,no survivors,Equatorial Guinea,Baney,Collied,Into sea,Antonov,An-24B,Equatorial Express Airlines
+60,6,49,5,COM,Alliance Air Flight 7412,APR ,2000,7,Monday,no survivors,India,Patna,Crashed,while takeoff,Boeing,737-2A8,Alliance Air Flight
+60,10,50,0,COM,TAROM Flight 371,ENR ,1995,3,Friday,no survivors,Romania,Balotești,Crashed,higy alltitude,Airbus,A310-324,TAROM Flight 371
+60,7.413793103,0,0,MIL,Georgian Air Force,UNK ,1993,10,Monday,no survivors,Georgia,near Svaneti,diappeared,While landing,Mil,Mi-8,Georgian Air Force
+60,3,57,0,EXG,Sudan Airways (ST-ADY),ENR ,1986,8,Saturday,no survivors,Sudan (now in South Sudan),near Malakal,Crashed,mountain collied,Fokker,F27,Sudan Airways (ST-ADY)
+60,2,60,0,INH,EgyptAir Flight 648,STD ,1985,11,Sunday,no survivors,Malta,Luqa,Collied,terrorist attack,Boeing,737-266,EgyptAir Flight 648
+60,10,50,0,COM,Malév Flight 240,APR ,1975,9,Tuesday,no survivors,Lebanon,Mediterranean,Crashed,Wing failure,Tupolev,Tu-154B,Malév Flight 240
+60,5,55,0,COM,Air Inter Flight 696Y,ENR ,1972,10,Friday,no survivors,France,Noirétable,exploded,overloaded flight,Vickers,Viscount,Air Inter Flight
+59,6,53,0,COM,Fuerza Aérea del Peru (FAP-329),ENR ,1989,6,Wednesday,no survivors,Peru,Tarma,Crashed,lost signal,de,Havilland,Fuerza Aérea del
+59,5,54,0,EXG,Air Rhodesia Flight 827,ENR ,1979,2,Monday,no survivors,Zimbabwe (then Rhodesia),near Kariba,Crashed,mountain collied,Vickers,Viscount,Air Rhodesia Flight
+59,0,59,0,COM,Libyan Arab Airlines (LZ-BTN),ENRLDG ,1977,12,Friday,no survivors,Libya,Ar Rajma,Crashed,Misscommunication,Tupolev,Tu-154,Libyan Arab Airlines
+59,4,55,0,COM,SAETA Flight 011,ENR ,1976,8,Sunday,no survivors,Ecuador,Chimborazo volcano,Crashed,mountain collied,Vickers,Viscount,SAETA Flight 011
+59,4,55,0,COM,Lufthansa Flight 540,TOF ,1974,11,Wednesday,no survivors,Kenya,Nairobi,Crashed,explosive device,Boeing,747-130,Lufthansa Flight 540
+59,3,12,44,MIL,Korean Air Force,ENR ,1967,4,Saturday,no survivors,South Korea,near Yeouido,exploded ,unable to control,Curtiss,C-46,Korean Air Force
+59,2,57,0,MIL,US Marine Corps (149802),TOF ,1965,8,Tuesday,no survivors,China,Kowloon Bay,Crashed,international act,Lockheed,KC-130F,US Marine Corps
+59,9,50,0,COM,Aeroflot Flight 245,ENR ,1961,12,Sunday,no survivors,USSR,Chebotovka,Crashed,Into sea,Ilyushin,Il-18B,Aeroflot Flight 245
+59,4,55,0,COM,Lloyd Aéreo Boliviano (CP-609),ENR ,1960,2,Friday,no survivors,Bolivia,Arbieto,diappeared,while takeoff,Douglas,DC-4,Lloyd Aéreo Boliviano
+59,9,50,0,COM,US Navy (131588),ENR ,1956,10,Wednesday,no survivors,Atlantic Ocean,Porcupine Seabight,Crashed,higy alltitude,Douglas,R6D-1,US Navy (131588)
+59,4,55,0,MIL,US Army Air Force (44-78591),APR ,1945,10,Friday,no survivors,China,Fangshan,Collied,While landing,Curtiss,C-46F-1-CU,US Army Air
+58,6,52,0,MIL,Yemen Air Force,ENR ,1992,7,Tuesday,no survivors,Yemen,Sirwah,Crashed,mountain collied,Antonov,An-12,Yemen Air Force
+58,3,55,0,COM,Aeroflot Flight 7841,ICL ,1985,2,Friday,no survivors,USSR,Minsk,exploded,terrorist attack,Tupolev,Tu-134AK,Aeroflot Flight 7841
+58,1,57,0,COM,Aeroflot Flight 1691,ENR ,1979,3,Saturday,no survivors,USSR,Moscow,Crashed,Wing failure,Tupolev,Tu-104B,Aeroflot Flight 1691
+58,5,53,0,INB,Air Vietnam (XV-NUI),APR ,1973,3,Monday,no survivors,Vietnam,Buôn Ma Thuột,Crashed,overloaded flight,Douglas,C-54D-15-DC,Air Vietnam (XV-NUI)
+58,2,55,1,COM,Pan African Airlines (N90427),APR ,1968,9,Saturday,no survivors,Nigeria,Agwa,Crashed,lost signal,Douglas,C-54B-1-DC,Pan African Airlines
+58,5,53,0,COM,American Airlines Flight 383,APR ,1965,11,Monday,no survivors,U.S.,Hebron,Crashed,mountain collied,Boeing,727-23,American Airlines Flight
+58,7,51,0,COM,Eastern Air Lines Flight 304,ENR ,1964,2,Tuesday,no survivors,U.S.,Lake Pontchartrain,Crashed,Misscommunication,Douglas,DC-8,Eastern Air Lines
+58,9,49,0,COM,KLM Flight 844,ENR ,1957,7,Tuesday,no survivors,Indonesia,Biak Island,exploded ,mountain collied,Lockheed,1049E,KLM Flight 844
+58,7,51,0,EXS,El Al Israel Airlines Flight 402/26,ENR ,1955,7,Wednesday,no survivors,Bulgaria,near Petrich,Crashed,explosive device,Lockheed,L-149,El Al Israel
+58,8,50,0,COM,Transocean Air Lines Flight 512,ENR ,1953,7,Sunday,no survivors,Pacific Ocean,Pacific Ocean,Crashed,unable to control,Douglas,DC-6,Transocean Air Lines
+58,7,51,0,COM,Curtiss Reid Flying Services (CF-EDN),ENR ,1950,11,Monday,no survivors,France,Grande Tête de l'Obiou mountain,diappeared,international act,Douglas,C-54B-1-DC,Curtiss Reid Flying
+58,3,55,0,COM,Northwest Orient Airlines Flight 2501,ENR ,1950,6,Friday,no survivors,U.S.,Lake Michigan,Crashed,Into sea,Douglas,DC-4,Northwest Orient Airlines
+58,5,0,53,COM,1938 Japan mid-air collision,ENR ,1938,8,Wednesday,no survivors,Japan,Tokyo,Collied,while takeoff,Fokker,Super,1938 Japan mid-air
+57,7,50,0,COM,Atlasjet Flight 4203,APR ,2007,11,Friday,no survivors,Turkey,Keçiborlu,Crashed,higy alltitude,McDonnell,Douglas,Atlasjet Flight 4203
+57,5,52,0,COM,ASA Pesada An-26 (D2-FCG),ENR ,2000,11,Wednesday,no survivors,Angola,Luanda,exploded,While landing,Antonov,An-26,ASA Pesada An-26
+57,5,52,0,COM,Turkish Airlines Flight 278,APR ,1994,12,Thursday,no survivors,Turkey,Van,Crashed,mountain collied,Boeing,737-4Y0,Turkish Airlines Flight
+57,7,50,0,MIL,Soviet Air Force Il-76MD (CCCP-76569),ENR ,1989,10,Wednesday,no survivors,USSR,Caspian Sea off Sumqayit,Crashed,terrorist attack,Ilyushin,Il-76MD,Soviet Air Force
+57,5,52,0,COM,SAETA Viscount (HC-AVP),ENR ,1979,4,Monday,no survivors,Ecuador,Pastaza Province,Crashed,Wing failure,Vickers,Viscount,SAETA Viscount (HC-AVP)
+57,4,53,0,COM,Aeroflot Flight 2174,APR ,1971,12,Wednesday,no survivors,USSR,Atamanovka,Crashed,overloaded flight,Antonov,An-24B,Aeroflot Flight 2174
+57,5,52,0,COM,Civil Air Transport Flight 106,ICL ,1964,6,Saturday,no survivors,Taiwan,Jiaoxi,Crashed,lost signal,Curtiss,C-46D-10-CU,Civil Air Transport
+56,2,54,0,COM,Martinair Flight 495,LDG ,1992,12,Monday,no survivors,Portugal,Faro,exploded ,mountain collied,McDonnell,Douglas,Martinair Flight 495
+56,2,54,0,COM,Aeroflot Flight A-13,ENR ,1973,8,Saturday,no survivors,Azerbaijan,Neftyanyye Kamni,Crashed,Misscommunication,Antonov,An-24B,Aeroflot Flight A-13
+56,1,50,5,COM,Varig Flight 837,APR ,1967,3,Sunday,no survivors,Liberia,Monrovia,Crashed,mountain collied,Douglas,DC-8-33,Varig Flight 837
+56,4,52,0,COM,Avianca Flight 03,ICL ,1966,1,Saturday,no survivors,Colombia,Cartagena Bay,diappeared,explosive device,Douglas,C-54,Avianca Flight 03
+56,4,52,0,COM,Miami Airlines (N1678M),ENR ,1951,12,Sunday,no survivors,U.S.,Hillside,Crashed,unable to control,Curtiss,C-46F-1-CU,Miami Airlines (N1678M)
+55,6,47,2,COM,China Eastern Airlines Flight 5210,ICL ,2004,11,Sunday,no survivors,China,Baotou,Collied,international act,Bombardier,CRJ-200LR,China Eastern Airlines
+55,7,48,0,EXG,Lionair Flight 602,ENR ,1998,9,Tuesday,no survivors,Sri Lanka,Palk Strait,Crashed,Into sea,Antonov,An-24,Lionair Flight 602
+55,1,54,0,COM,China Northwest Airlines Flight 2119,TOF ,1993,7,Friday,no survivors,China,Yinchuan,exploded,while takeoff,British,Aerospace,China Northwest Airlines
+55,2,53,0,COM,Indian Airlines Flight 491,TOF ,1993,4,Monday,no survivors,India,Aurangabad,Crashed,higy alltitude,Boeing,737-2A8,Indian Airlines Flight
+55,5,50,0,COM,Partnair Flight 394,ENR ,1989,9,Friday,no survivors,Denmark,Skagerrak,Crashed,While landing,Convair,CV-580,Partnair Flight 394
+55,2,53,0,COM,British Airtours Flight 328,TOF ,1985,8,Thursday,no survivors,UK,Manchester,Crashed,mountain collied,Boeing,737-236,British Airtours Flight
+55,8,47,0,COM,Transbrasil Flight 303,APR ,1980,4,Saturday,no survivors,Brazil,Morro da Virgínia,Crashed,terrorist attack,Boeing,727-27C,Transbrasil Flight 303
+55,4,51,0,COM,Aeroflot Flight H-826,ENR ,1969,8,Sunday,no survivors,USSR,Preobrazhenka,Crashed,Wing failure,Antonov,An-24B,Aeroflot Flight H-826
+55,7,48,0,COM,Air Afrique (F-BIAO),ENR ,1963,5,Friday,no survivors,Cameroon,Mount Cameroon,Hijacked,overloaded flight,Douglas,DC-6B,Air Afrique (F-BIAO)
+55,7,48,0,COM,Trans World Airlines Flight 903,ENR ,1950,8,Thursday,no survivors,Egypt,Wadi Natrun,Hijacked,lost signal,Lockheed,L-749A,Trans World Airlines
+55,4,51,0,COM,Eastern Air Lines Flight 537 and Bolivian Air Force (NX26927),APR ,1949,11,Tuesday,survivors,U.S.,Alexandria,Collied,mountain collied,Douglas,DC-4,Eastern Air Lines
+54,5,49,0,COM,Trigana Air Flight 267,ENR ,2015,8,Sunday,no survivors,Indonesia,Mount Tangok,Exploded,Misscommunication,ATR,42-300,Trigana Air Flight
+54,7,47,0,COM,China Airlines Flight 204,ENR ,1989,10,Thursday,no survivors,Taiwan,Chiashan Mountains,Collied,mountain collied,Boeing,737-209,China Airlines Flight
+54,5,49,0,COM,Pakistan International Airlines Flight 404,ENR ,1989,8,Friday,no survivors,Pakistan,Bunji,Crashed,explosive device,Fokker,F27,Pakistan International Airlines
+54,7.413793103,0,0,MIL,Ethiopian Air Force,UNK ,1987,1,Tuesday,no survivors,Eritrea,near Asmara,explosion,unable to control,Antonov,An-12,Ethiopian Air Force
+54,2,52,0,COM,Aeroflot Flight 2306,ENR ,1986,7,Wednesday,no survivors,USSR,near Kopsa,caught fire ,international act,Tupolev,Tu-134AK,Aeroflot Flight 2306
+54,10,44,0,MIL,Israeli Air Force (960),UNK ,1977,5,Tuesday,no survivors,Jordan Valley,Jordan Valley,Shot down,Into sea,Sikorsky,CH-53,Israeli Air Force
+54,4,50,0,COM,Alia Royal Jordanian Airlines Herald (JY-ACQ),ENR ,1965,4,Saturday,no survivors,Syria,Al-Dimas,Crashed ,while takeoff,Handley,Page,Alia Royal Jordanian
+54,5,49,0,COM,Real Transportes Aéreos Flight 435,APR ,1960,6,Friday,no survivors,Brazil,Guanabara Bay,Crashed,higy alltitude,Convair,CV-340-62,Real Transportes Aéreos
+54,9,45,0,COM,Transports Aériens Intercontinentaux Flight 307,ICL ,1959,9,Thursday,no survivors,France,Mérignac,Crashed,While landing,Douglas,DC-7C,Transports Aériens Intercontinentaux
+53,10,43,0,COM,Air France Flight 422,ENR ,1998,4,Monday,no survivors,Colombia,Monserrate,Bomded,mountain collied,Boeing,727-230,Air France Flight
+53,6,47,0,COM,Federal Airlines (ST-FAG),LDG ,1996,5,Friday,no survivors,Sudan,Khartoum North,Shot down,terrorist attack,Antonov,An-24RV,Federal Airlines (ST-FAG)
+53,5,48,0,COM,Lineas Aéreas del Estado (TC-72) (1995),ENR ,1995,11,Wednesday,no survivors,Argentina,near Champaqui,Crashed,Wing failure,Fokker,F-27,Lineas Aéreas del
+53,7.413793103,0,0,EXG,Bakhtar Alwatana (YA-BAL),ENR ,1987,6,Thursday,no survivors,Afghanistan,near Khost,Crashed,overloaded flight,Antonov,An-26,Bakhtar Alwatana (YA-BAL)
+53,4,0,49,COM,Aeroservicios Ecuatorianos Flight 767-103,TOF ,1984,9,Tuesday,no survivors,Ecuador,Concepción,Crashed ,lost signal,Douglas,DC-8-55F,Aeroservicios Ecuatorianos Flight
+53,2,51,0,COM,Nigeria Airways Flight 250,APR ,1983,11,Monday,no survivors,Nigeria,Enugu,Collied,mountain collied,Fokker,F28,Nigeria Airways Flight
+53,4,49,0,MIL,Korean Air Force (56-4391),TOF ,1982,6,Tuesday,no survivors,South Korea,Seongnam,Crashed,Misscommunication,Fairchild,C-123J,Korean Air Force
+53,6,47,0,MIL,Korean Air Force,ENR ,1982,2,Saturday,no survivors,South Korea,Hallasan,Crashed,mountain collied,Fairchild,C-123J,Korean Air Force
+53,5,48,0,COM,LOT Polish Airlines Flight 165,ENR ,1969,4,Wednesday,no survivors,Poland,Polica Mountain,diappeared,explosive device,Antonov,An-24W,LOT Polish Airlines
+53,9,44,0,MIL,US Air Force (49-0244),ENR ,1951,3,Friday,no survivors,Atlantic Ocean,area of Biscay Abyssal Plain,Crashed,unable to control,Douglas,C-124A,US Air Force
+53,1,52,0,COM,Strato-Freight (NC92857),ICL ,1949,6,Tuesday,no survivors,U.S.,Atlantic Ocean off San Juan,Collied,international act,Curtiss,C-46D-5-CU,Strato-Freight (NC92857)
+53,4,49,0,COM,Eastern Air Lines Flight 605,ENR ,1947,5,Friday,no survivors,U.S.,Bainbridge,Crashed,Into sea,Douglas,DC-4,Eastern Air Lines
+53,4,49,0,COM,Avianca (C-114),ENR ,1947,2,Saturday,no survivors,Colombia,Mount El Tablazo,exploded,while takeoff,Douglas,DC-4,Avianca (C-114)
+53,1,0,52,MIL,Santa Ana air show disaster,ENR ,1938,7,Sunday,no survivors,Colombia,Campo de Marte,Crashed,higy alltitude,Curtiss,Hawk,Santa Ana air
+53,2,50,0,COM,Azerbaijan Airlines Flight A-56,ICL ,1995,12,Tuesday,no survivors,Azerbaijan,Nakhchivan,Crashed,While landing,Tupolev,Tu-134B,Azerbaijan Airlines Flight
+53,7.413793103,0,3,MIL,Philippine Air Force (5125),APR ,2021,7,Sunday,no survivors,Philippines,Patikul,Crashed,mountain collied,Lockheed,C-130H,Philippine Air Force
+52,3,49,0,EXG,Sri Lanka Air Force (4R-HVA),APR ,1995,4,Saturday,no survivors,Sri Lanka,near Jaffna,Crashed,terrorist attack,British,Aerospace,Sri Lanka Air
+52,4,42,6,MIL,Kenya Air Force (214),APR ,1992,4,Thursday,no survivors,Kenya,Eastleigh,Crashed,Wing failure,de,Havilland,Kenya Air Force
+52,5,47,0,EXG,Bakhtar Afghan Airlines (YA-BAM),ENR ,1985,9,Wednesday,no survivors,Afghanistan,Senjaray,exploded ,overloaded flight,Antonov,An-26,Bakhtar Afghan Airlines
+52,6,46,0,COM,Aeroflot Flight 1802,ENR ,1976,5,Saturday,no survivors,USSR,Chernihiv,Crashed ,lost signal,Antonov,An-24RV,Aeroflot Flight 1802
+52,5,47,0,COM,Lineas Aéreas del Estado (TC-72) (1975),APR ,1975,3,Sunday,no survivors,Argentina,Pilcaniyeu,accident ,mountain collied,Fokker,F-27,Lineas Aéreas del
+52,4,48,0,COM,Aeroflot Flight H-63,APR ,1971,11,Friday,no survivors,USSR,Vinnytsia,Hijacked,Misscommunication,Antonov,An-24B,Aeroflot Flight H-63
+52,6,46,0,INB,Canadian Pacific Air Lines Flight 21,ENR ,1965,7,Thursday,no survivors,Canada,near 100 Mile House,Hijacked,mountain collied,Douglas,DC-6B,Canadian Pacific Air
+52,12,40,0,COM,Aerolíneas Argentinas Flight 322,ICL ,1961,11,Thursday,no survivors,Brazil,Campinas,Collied,explosive device,de,Havilland,Aerolíneas Argentinas Flight
+52,8,44,0,COM,Československé Státní Aerolinie Flight 511,ENR ,1961,3,Tuesday,no survivors,West Germany,Igensdorf,Exploded,unable to control,Ilyushin,Il-18,Československé Státní Aerolinie
+52,7,13,32,MIL,US Air Force (55-0291),ENR ,1960,12,Saturday,no survivors,West Germany,Munich,Collied,international act,Convair,C-131,US Air Force
+52,3,49,0,COM,Transports Aériens Intercontinentaux (F-BGOD),APR ,1956,2,Monday,no survivors,Egypt,near New Cairo,Crashed,Into sea,Douglas,DC-6B,Transports Aériens Intercontinentaux
+52,11,41,0,MIL,US Air Force (51-0107),ENR ,1952,11,Saturday,no survivors,U.S.,Colony Glacier,explosion,while takeoff,Douglas,C-124A-DL,US Air Force
+52,0,52,0,COM,Pan Am Flight 526A,ENR ,1952,4,Friday,no survivors,U.S.,Atlantic Ocean,caught fire ,higy alltitude,Douglas,DC-4,Pan Am Flight
+52,12,40,0,COM,Air France Flight 072,ENR ,1948,8,Sunday,no survivors,Atlantic Ocean,Atlantic Ocean,Shot down,While landing,Latécoère,631,Air France Flight
+52,5,47,0,COM,United Air Lines Flight 608,ENR ,1947,10,Friday,no survivors,U.S.,Bryce Canyon,Crashed ,mountain collied,Douglas,DC-6,United Air Lines
+52,42,10,0,MIL,French airship Dixmude,,1923,12,Friday,no survivors,Italy,Mediterranean,Crashed,terrorist attack,Zeppelin-type,rigid,French airship Dixmude
+51,4,47,0,COM,US-Bangla Airlines Flight 211,LDG ,2018,3,Monday,no survivors,Nepal,Kathmandu,Crashed,Wing failure,Bombardier,Dash,US-Bangla Airlines Flight
+51,4,17,30,COM,Malift Air (9Q-COS),TOF ,2007,10,Thursday,no survivors,DR Congo,Kinshasa,Bomded,overloaded flight,Antonov,An-26,Malift Air (9Q-COS)
+51,6,45,0,MIL,Afghanistan Air Force,APR ,1998,1,Tuesday,no survivors,Pakistan,Khojak Pass,Shot down,lost signal,Antonov,An-32,Afghanistan Air Force
+51,5,46,0,COM,Intercontinental de Aviación Flight 256,APR ,1995,1,Wednesday,survivors,Colombia,near María La Baja,Crashed,mountain collied,Douglas,DC-9-14,Intercontinental de Aviación
+51,4,47,0,COM,Aeroflot-Yugavia Flight 519,APR ,1991,11,Thursday,no survivors,USSR,Mount Kukurtbash,Crashed,Misscommunication,Yakovlev,Yak-40,Aeroflot-Yugavia Flight 519
+51,6,45,0,COM,Air Mali (TZ-ACT),ICL ,1985,2,Friday,survivors,Mali,Timbuktu,Crashed ,mountain collied,Antonov,An-24B,Air Mali (TZ-ACT)
+51,6,45,0,COM,Soviet Navy (CCCP-42332),ENR ,1981,2,Saturday,no survivors,USSR,Pushkinsky District,Collied,explosive device,Tupolev,Tu-104A,Soviet Navy (CCCP-42332)
+51,6,45,0,COM,Aeroflot Flight 2022,ENR ,1973,12,Sunday,no survivors,USSR,Karacharovo,Crashed,unable to control,Tupolev,Tu-124V,Aeroflot Flight 2022
+51,9,42,0,COM,Pan Am Flight 217,APR ,1968,12,Thursday,no survivors,Venezuela,Atlantic Ocean,Crashed,international act,Boeing,707-321B,Pan Am Flight
+51,5,46,0,COM,Austral Líneas Aéreas Flight 205,APR ,1959,1,Friday,survivors,Argentina,Atlantic Ocean off Mar del Plata,diappeared,Into sea,Curtiss,C-46A-50-CU,Austral Líneas Aéreas
+51,7,44,0,COM,Panair do Brasil Flight 099,ENR ,1950,7,Friday,no survivors,Brazil,São Leopoldo,Crashed,while takeoff,Lockheed,Constellation,Panair do Brasil
+50,6,44,0,COM,Tatarstan Airlines Flight 363,LDG ,2013,11,Sunday,no survivors,Russia,Kazan,Collied,higy alltitude,Boeing,737-53A,Tatarstan Airlines Flight
+50,4,45,1,COM,Colgan Air Flight 3407,APR ,2009,2,Thursday,no survivors,U.S.,Clarence Center,Crashed,While landing,Bombardier,DHC8-402,Colgan Air Flight
+50,7.413793103,0,0,MIL,Sudanese Air Force,ENR ,1999,6,Thursday,no survivors,Sudan,Surayriyah,exploded,mountain collied,Antonov,An-32,Sudanese Air Force
+50,6,44,0,COM,Stavropolskaya Aktsionernaya Avia Flight 1023,ENR ,1997,3,Tuesday,no survivors,Russia,Cherkessk,Crashed,terrorist attack,Antonov,An-24RV,Stavropolskaya Aktsionernaya Avia
+50,4,46,0,COM,Philippine Airlines Flight 206,APR ,1987,6,Friday,no survivors,Philippines,Mount Ugu,Crashed,Wing failure,Hawker,Siddeley,Philippine Airlines Flight
+50,12,38,0,COM,Varig Flight 797,APR ,1987,1,Saturday,survivors,Côte d'Ivoire,Bingerville,Crashed,overloaded flight,Boeing,707-320C,Varig Flight 797
+50,5,45,0,COM,Balkan Bulgarian Airlines (LZ-TUR),APR ,1984,1,Tuesday,no survivors,Bulgaria,Sofia,Crashed,lost signal,Tupolev,Tu-134,Balkan Bulgarian Airlines
+50,3,47,0,COM,Spantax Flight 995,TOF ,1982,9,Monday,no survivors,Spain,Málaga,Crashed,mountain collied,McDonnell,Douglas,Spantax Flight 995
+50,6,44,0,COM,Aeropesca Flight 221,ENR ,1981,8,Wednesday,no survivors,Colombia,Garzón,exploded ,Misscommunication,Vickers,Viscount,Aeropesca Flight 221
+50,6,44,0,COM,Somali Airlines Flight 40,ENR ,1981,7,Monday,no survivors,Somalia,Bal'ad District,Crashed ,mountain collied,Fokker,F27,Somali Airlines Flight
+50,4,46,0,COM,Olympic Airways Flight 830,APR ,1976,11,Tuesday,no survivors,Greece,Servia,accident ,explosive device,NAMC,YS-11A-500,Olympic Airways Flight
+50,6,44,0,MIL,Royal Air Force (XV216),ENR ,1971,11,Tuesday,no survivors,Italy,Ligurian Sea,Hijacked,unable to control,Lockheed,C-130K,Royal Air Force
+50,6,44,0,COM,Hughes Airwest Flight 706 and US Marine Corps (151458),ENR ,1971,6,Sunday,survivors,U.S.,San Gabriel Mountains,Hijacked,international act,McDonnell,Douglas,Hughes Airwest Flight
+50,5,43,2,COM,Ariana Afghan Airlines Flight 701,APR ,1969,1,Sunday,no survivors,UK,Fernhill,Collied,Into sea,Boeing,727-113C,Ariana Afghan Airlines
+50,5,45,0,COM,All Nippon Airways Flight 533,APR ,1966,11,Sunday,no survivors,Japan,Seto Inland Sea,Exploded,while takeoff,NAMC,YS-11,All Nippon Airways
+50,5,45,0,COM,Iberia (EC-ATH),APR ,1965,3,Wednesday,no survivors,Morocco,Atlantic Ocean,Collied,higy alltitude,Convair,CV-440-62,Iberia (EC-ATH)
+50,7,43,0,COM,Panair do Brasil (PP-PDE),ENR ,1962,12,Friday,no survivors,Brazil,area of Manaus,Crashed,While landing,Lockheed,L-049,Panair do Brasil
+50,4,46,0,COM,Capital Airlines Flight 20,ENR ,1960,1,Monday,no survivors,U.S.,Holdcroft,explosion,mountain collied,Vickers,Viscount,Capital Airlines Flight
+50,5,45,0,COM,Scottish Airlines (G-ANSY),ENR ,1956,2,Saturday,no survivors,Malta,Żurrieq,caught fire ,terrorist attack,Avro,York,Scottish Airlines (G-ANSY)
+50,9,41,0,COM,Pan Am Flight 202,ENR ,1952,4,Tuesday,no survivors,Brazil,near Santana do Araguaia,Shot down,Wing failure,Boeing,377-10-26,Pan Am Flight
+50,6,44,0,COM,United Air Lines Flight 615,APR ,1951,8,Friday,no survivors,U.S.,Union City,Crashed ,overloaded flight,Douglas,DC-6B,United Air Lines
+50,5,45,0,COM,United Air Lines Flight 610,ENR ,1951,6,Saturday,no survivors,U.S.,near Fort Collins,Crashed,lost signal,Douglas,DC-6,United Air Lines
+50,3,47,0,COM,Pennsylvania Central Airlines Flight 410,ENR ,1947,6,Friday,no survivors,U.S.,Shannondale,Crashed,mountain collied,Douglas,C-54,Pennsylvania Central Airlines
